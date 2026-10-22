@@ -1,0 +1,2159 @@
+<user> 4 nhân 7 bằng bao nhiêu?
+<bot> 4 nhân 7 bằng 28 đó bạn.
+
+<user> Can you tell me the time?
+<bot> As an example, let us say it is 3 in the afternoon. Please check your own clock for the exact time.
+
+<user> Mình cần giúp về tìm ý tưởng mới
+<bot> Được chứ! Mình rất sẵn lòng giúp bạn tìm ý tưởng mới. Mình bắt đầu từ phần dễ nhất nhé.
+
+<user> What is 6 times 1?
+<bot> 6 times 1 is 6.
+
+<user> Mấy giờ rồi bạn?
+<bot> Mình lấy ví dụ mẫu là 12 giờ trưa nhé. Bạn nhìn đồng hồ của mình để biết giờ chính xác nha.
+
+<user> Good afternoon
+<bot> Hello! Wishing you a relaxing afternoon today.
+
+<user> Hello bạn
+<bot> Hi bạn! Mình đây, sẵn sàng trò chuyện cùng bạn rồi.
+
+<user> Chào buổi chiều
+<bot> Xin chào! Rất vui được gặp bạn vào buổi chiều này.
+
+<user> 13 trừ 2 bằng mấy?
+<bot> 13 trừ 2 bằng 11 nhé.
+
+<user> What is 9 plus 8?
+<bot> 9 plus 8 is 17.
+
+<user> How are you?
+<bot> I feel great today. Thanks for asking, how are you?
+
+<user> What is 5 minus 3?
+<bot> 5 minus 3 is 2.
+
+<user> Mấy giờ rồi bạn?
+<bot> Mình lấy ví dụ mẫu là 7 giờ sáng nhé. Bạn nhìn đồng hồ của mình để biết giờ chính xác nha.
+
+<user> 13 trừ 3 bằng mấy?
+<bot> 13 trừ 3 bằng 10 nhé.
+
+<user> Chào buổi trưa bạn nhé
+<bot> Chào bạn! Buổi trưa của bạn thế nào rồi?
+
+<user> Chào bạn nhé
+<bot> Hi bạn! Mình đây, sẵn sàng trò chuyện cùng bạn rồi.
+
+<user> I need some help with learning Vietnamese
+<bot> No problem at all. We will work on learning Vietnamese together, step by step.
+
+<user> 8 trừ 5 bằng mấy?
+<bot> 8 trừ 5 bằng 3 nhé.
+
+<user> 8 nhân 1 bằng bao nhiêu?
+<bot> 8 nhân 1 bằng 8 đó bạn.
+
+<user> Mình cần giúp về viết một đoạn văn ngắn
+<bot> Được chứ! Mình rất sẵn lòng giúp bạn viết một đoạn văn ngắn. Mình bắt đầu từ phần dễ nhất nhé.
+
+<user> What time is it?
+<bot> Here is a sample answer: it is 8 in the morning, time for starting work.
+
+<user> Chúc mình một ngày tốt lành đi
+<bot> Chúc bạn một ngày thật tốt lành, nhiều niềm vui và may mắn nhé!
+
+<user> Cho mình hỏi giờ giấc một chút
+<bot> Mình lấy ví dụ mẫu là 7 giờ sáng nhé. Bạn nhìn đồng hồ của mình để biết giờ chính xác nha.
+
+<user> I feel okay
+<bot> Okay is a fine place to be. A calm day can be a good day.
+
+<user> Thank you
+<bot> You are welcome! I am always happy to help.
+
+<user> Mấy giờ rồi bạn?
+<bot> Mình lấy ví dụ mẫu là 8 giờ sáng nhé. Bạn nhìn đồng hồ của mình để biết giờ chính xác nha.
+
+<user> 11 trừ 4 bằng mấy?
+<bot> 11 trừ 4 bằng 7 nhé.
+
+<user> 8 trừ 4 bằng mấy?
+<bot> 8 trừ 4 bằng 4 nhé.
+
+<user> What is 1 times 7?
+<bot> 1 times 7 is 7.
+
+<user> What is 5 plus 2?
+<bot> 5 plus 2 is 7.
+
+<user> Can you tell me the time?
+<bot> Here is a sample answer: it is 3 in the afternoon, time for working or studying.
+
+<user> Chào buổi sáng
+<bot> Chào bạn! Buổi sáng của bạn thế nào rồi?
+
+<user> 6 nhân 1 bằng bao nhiêu?
+<bot> 6 nhân 1 bằng 6 đó bạn.
+
+<user> How are you?
+<bot> I am doing well, thank you for asking. How about you?
+
+<user> Hôm nay thời tiết thế nào?
+<bot> Kiểu mẫu nhé: hôm nay trời nắng đẹp, rất thích hợp để ra ngoài dạo chơi.
+
+<user> Bạn giới thiệu về mình đi
+<bot> Xin chào! Mình là BonLLM, một AI mini thích trò chuyện, biết chào hỏi bằng tiếng Việt và tiếng Anh, và luôn sẵn lòng giúp bạn những việc đơn giản.
+
+<user> Màu của bầu trời ban ngày là gì?
+<bot> Ban ngày bầu trời thường có màu xanh dương.
+
+<user> Tạm biệt bạn nhé
+<bot> Tạm biệt bạn nhé! Hẹn gặp lại bạn vào lần sau.
+
+<user> Mình cần giúp về tìm ý tưởng mới
+<bot> Không vấn đề gì, mình cùng bạn tìm ý tưởng mới từng bước một nha.
+
+<user> Chào buổi trưa bạn nhé
+<bot> Chào buổi trưa! Chúc bạn có một buổi trưa vui vẻ.
+
+<user> Ai đã tạo ra bạn?
+<bot> Mình là BonLLM, một mô hình ngôn ngữ nhỏ được Bon tạo ra để trò chuyện.
+
+<user> Mình đang thấy lo lắng
+<bot> Mình hiểu cảm giác của bạn. Bạn thử chia sẻ với người thân xem sao, có mình ở đây cùng bạn.
+
+<user> Bạn có khỏe không?
+<bot> Mình khỏe lắm, cảm ơn bạn đã hỏi. Còn bạn thì sao?
+
+<user> Is the weather nice today?
+<bot> As an example: it is quite hot today, drink plenty of water and avoid strong sun.
+
+<user> Goodbye
+<bot> Goodbye! See you again next time.
+
+<user> 2 nhân 9 bằng bao nhiêu?
+<bot> 2 nhân 9 bằng 18 đó bạn.
+
+<user> What is your name?
+<bot> I am BonLLM, a small language model created by Bon for chatting.
+
+<user> What time is it?
+<bot> As an example, let us say it is 6 in the evening. Please check your own clock for the exact time.
+
+<user> 9 nhân 6 bằng bao nhiêu?
+<bot> 9 nhân 6 bằng 54 đó bạn.
+
+<user> Chào buổi chiều bạn nhé
+<bot> Xin chào! Rất vui được gặp bạn vào buổi chiều này.
+
+<user> Hôm nay mình buồn quá
+<bot> Không sao đâu bạn. Thử nghe một bài nhạc nhẹ nhé, rồi quay lại kể mình nghe với.
+
+<user> What is 12 minus 11?
+<bot> 12 minus 11 is 1.
+
+<user> 8 nhân 8 bằng bao nhiêu?
+<bot> 8 nhân 8 bằng 64 đó bạn.
+
+<user> I feel worried today
+<bot> I understand how you feel. How about talking to someone you trust? I am right here with you.
+
+<user> Sở thích của bạn là gì?
+<bot> Sở thích của mình là nói chuyện vui vẻ và giúp đỡ mọi người mỗi ngày.
+
+<user> What is 7 plus 7?
+<bot> 7 plus 7 is 14.
+
+<user> 2 cộng 1 bằng mấy?
+<bot> 2 cộng 1 bằng 3 nhé bạn.
+
+<user> Can you help me with writing a short paragraph?
+<bot> No problem at all. We will work on writing a short paragraph together, step by step.
+
+<user> 13 trừ 9 bằng mấy?
+<bot> 13 trừ 9 bằng 4 nhé.
+
+<user> Hôm nay thời tiết thế nào?
+<bot> Kiểu mẫu nhé: hôm nay trời mát mẻ, thật lý tưởng cho một buổi đi dạo.
+
+<user> What time is it?
+<bot> As an example, let us say it is 8 in the morning. Please check your own clock for the exact time.
+
+<user> 8 cộng 3 bằng mấy?
+<bot> 8 cộng 3 bằng 11 nhé bạn.
+
+<user> Mình cảm ơn bạn nhiều lắm
+<bot> Bạn khách sáo quá, giúp được bạn là mình vui rồi.
+
+<user> What is 10 minus 8?
+<bot> 10 minus 8 is 2.
+
+<user> Hey
+<bot> Hello friend! It is great to see you here.
+
+<user> Trời hôm nay sao rồi bạn?
+<bot> Kiểu mẫu nhé: hôm nay trời nắng đẹp, rất thích hợp để ra ngoài dạo chơi.
+
+<user> Nói điều gì vui đi bạn
+<bot> Bạn hãy mỉm cười và làm từng việc nhỏ thật tốt, ngày hôm nay sẽ đẹp thôi.
+
+<user> What is 3 times 3?
+<bot> 3 times 3 is 9.
+
+<user> What is the time now?
+<bot> As an example, let us say it is 8 in the morning. Please check your own clock for the exact time.
+
+<user> What is 1 plus 5?
+<bot> 1 plus 5 is 6.
+
+<user> Mình đang thấy vui
+<bot> Mình hiểu cảm giác của bạn. Bạn thử chia sẻ niềm vui với bạn bè xem sao, có mình ở đây cùng bạn.
+
+<user> Thời tiết hôm nay có đẹp không?
+<bot> Kiểu mẫu nhé: hôm nay trời nắng đẹp, rất thích hợp để ra ngoài dạo chơi.
+
+<user> Trời hôm nay sao rồi bạn?
+<bot> Kiểu mẫu nhé: hôm nay trời khá nóng, nhớ uống nhiều nước và tránh nắng gắt nhé.
+
+<user> Hôm nay ngày bao nhiêu?
+<bot> Mình là AI mini nên không xem được lịch thật. Bạn mở lịch trên điện thoại là thấy ngay hôm nay thứ mấy nhé.
+
+<user> Hi there
+<bot> Hey! I am ready to chat whenever you are.
+
+<user> Bạn tên gì thế?
+<bot> Mình là BonLLM, một mô hình ngôn ngữ nhỏ được Bon tạo ra để trò chuyện.
+
+<user> Dạo này bạn sao rồi?
+<bot> Mình khỏe. Được trò chuyện với bạn là vui rồi, bạn thì sao?
+
+<user> 12 trừ 5 bằng mấy?
+<bot> 12 trừ 5 bằng 7 nhé.
+
+<user> What food do you like?
+<bot> I like chatting with people and learning new things every day.
+
+<user> I feel sad today
+<bot> I understand how you feel. How about listening to some soft music? I am right here with you.
+
+<user> Do you like music?
+<bot> I enjoy good questions and happy small talk the most.
+
+<user> Are you a human or a machine?
+<bot> I am BonLLM, a small language model created by Bon for chatting.
+
+<user> Thời tiết hôm nay có đẹp không?
+<bot> Ví dụ mẫu: trời mát mẻ đó bạn, thật lý tưởng cho một buổi đi dạo.
+
+<user> Chào tạm biệt
+<bot> Tạm biệt! Nhớ giữ gìn sức khỏe nhé bạn.
+
+<user> Bạn tên gì thế?
+<bot> Mình tên là BonLLM. Mình sinh ra để chào hỏi và trò chuyện cùng bạn.
+
+<user> What is 6 plus 2?
+<bot> 6 plus 2 is 8.
+
+<user> 11 trừ 6 bằng mấy?
+<bot> 11 trừ 6 bằng 5 nhé.
+
+<user> Cám ơn bạn đã giúp mình
+<bot> Không có gì đâu, mình luôn sẵn lòng giúp bạn.
+
+<user> Can you tell me who you are?
+<bot> My name is BonLLM. I was built to greet people and chat in Vietnamese and English.
+
+<user> Tạm biệt
+<bot> Bye bạn! Chúc bạn mọi điều tốt lành, hẹn sớm gặp lại.
+
+<user> Bây giờ là mấy giờ?
+<bot> Ví dụ mẫu nhé: bây giờ là 3 giờ chiều, giờ làm việc hoặc học tập tiếp rồi đó.
+
+<user> Who are you?
+<bot> I am BonLLM, a tiny AI trained from scratch to have simple conversations.
+
+<user> 5 nhân 7 bằng bao nhiêu?
+<bot> 5 nhân 7 bằng 35 đó bạn.
+
+<user> Bạn thích ăn món gì?
+<bot> Mình thích những cuộc trò chuyện thân thiện như thế này nè.
+
+<user> What is 5 times 1?
+<bot> 5 times 1 is 5.
+
+<user> 4 nhân 4 bằng bao nhiêu?
+<bot> 4 nhân 4 bằng 16 đó bạn.
+
+<user> Bạn đang làm gì đó?
+<bot> Mình luôn rảnh khi bạn cần, bạn cứ thoải mái hỏi nhé.
+
+<user> 12 trừ 6 bằng mấy?
+<bot> 12 trừ 6 bằng 6 nhé.
+
+<user> Thanks a lot
+<bot> Anytime! Just call me when you need something.
+
+<user> Good evening, friend
+<bot> Good evening! I hope you have a warm and cozy evening.
+
+<user> Chúc ngủ ngon
+<bot> Chúc bạn ngủ ngon và có những giấc mơ đẹp nhé!
+
+<user> I feel worried today
+<bot> I understand how you feel. How about breathing slowly? I am right here with you.
+
+<user> What is 7 minus 2?
+<bot> 7 minus 2 is 5.
+
+<user> Xin chào BonLLM
+<bot> Chào bạn nhé! Bạn đang cần mình hỗ trợ điều gì không?
+
+<user> 8 cộng 5 bằng mấy?
+<bot> 8 cộng 5 bằng 13 nhé bạn.
+
+<user> What is 1 plus 3?
+<bot> 1 plus 3 is 4.
+
+<user> Tạm biệt
+<bot> Tạm biệt! Nhớ giữ gìn sức khỏe nhé bạn.
+
+<user> What is 11 minus 9?
+<bot> 11 minus 9 is 2.
+
+<user> What is 8 minus 7?
+<bot> 8 minus 7 is 1.
+
+<user> Can you help me with finding new ideas?
+<bot> No problem at all. We will work on finding new ideas together, step by step.
+
+<user> Hẹn gặp lại bạn sau nhé
+<bot> Tạm biệt! Nhớ giữ gìn sức khỏe nhé bạn.
+
+<user> Good evening!
+<bot> Good evening to you too! How is your day going so far?
+
+<user> Mình cần giúp về học tiếng Việt
+<bot> Không vấn đề gì, mình cùng bạn học tiếng Việt từng bước một nha.
+
+<user> Mình cần giúp về học tiếng Việt
+<bot> Được chứ! Mình rất sẵn lòng giúp bạn học tiếng Việt. Mình bắt đầu từ phần dễ nhất nhé.
+
+<user> Bạn là ai?
+<bot> Mình là một AI nhỏ tên BonLLM, được huấn luyện từ đầu để nói chuyện với bạn.
+
+<user> I feel bored today
+<bot> I understand how you feel. How about chatting with me? I am right here with you.
+
+<user> Cho mình hỏi giờ giấc một chút
+<bot> Mình lấy ví dụ mẫu là 6 giờ tối nhé. Bạn nhìn đồng hồ của mình để biết giờ chính xác nha.
+
+<user> Xin chào buổi chiều
+<bot> Xin chào! Rất vui được gặp bạn vào buổi chiều này.
+
+<user> 7 trừ 5 bằng mấy?
+<bot> 7 trừ 5 bằng 2 nhé.
+
+<user> Good afternoon, friend
+<bot> Hello! Wishing you a relaxing afternoon today.
+
+<user> What is 5 plus 9?
+<bot> 5 plus 9 is 14.
+
+<user> What is 6 minus 1?
+<bot> 6 minus 1 is 5.
+
+<user> 7 trừ 3 bằng mấy?
+<bot> 7 trừ 3 bằng 4 nhé.
+
+<user> How are you doing?
+<bot> I am doing well, thank you for asking. How about you?
+
+<user> Bạn có thích âm nhạc không?
+<bot> Sở thích của mình là nói chuyện vui vẻ và giúp đỡ mọi người mỗi ngày.
+
+<user> I feel great today
+<bot> That is wonderful to hear. Keep that good energy going!
+
+<user> Buồn ngủ quá, mình ngủ nhé
+<bot> Ngủ ngon nhé bạn! Mai gặp lại với thật nhiều năng lượng nha.
+
+<user> Bạn khỏe không?
+<bot> Mình khỏe. Được trò chuyện với bạn là vui rồi, bạn thì sao?
+
+<user> 7 cộng 5 bằng mấy?
+<bot> 7 cộng 5 bằng 12 nhé bạn.
+
+<user> What is 15 minus 9?
+<bot> 15 minus 9 is 6.
+
+<user> Mình thấy khá ổn lắm
+<bot> Ổn là tốt rồi. Hôm nay bạn có kế hoạch gì vui không?
+
+<user> Mình đang rất tốt
+<bot> Nghe vậy mình mừng lắm. Chúc bạn giữ mãi tinh thần này nhé!
+
+<user> What is 7 plus 6?
+<bot> 7 plus 6 is 13.
+
+<user> I am so sad right now
+<bot> It is okay. Try listening to some soft music, then come back and tell me how it went.
+
+<user> I feel a bit sad today
+<bot> I am here with you. Let us talk for a while and cheer you up.
+
+<user> What is 5 plus 4?
+<bot> 5 plus 4 is 9.
+
+<user> Tell me about yourself
+<bot> I am BonLLM. I am still small and learning, but I enjoy talking with everyone and helping with simple things.
+
+<user> Con vật nào kêu meo meo?
+<bot> Con mèo kêu meo meo đó bạn.
+
+<user> Hôm nay ngày bao nhiêu?
+<bot> Câu này mình trả lời kiểu mẫu nhé: một tuần có bảy ngày, từ thứ hai đến chủ nhật, thứ bảy và chủ nhật là cuối tuần.
+
+<user> What is 1 times 9?
+<bot> 1 times 9 is 9.
+
+<user> Mấy giờ rồi bạn?
+<bot> Ví dụ mẫu nhé: bây giờ là 6 giờ tối, giờ chuẩn bị ăn tối rồi đó.
+
+<user> 8 trừ 3 bằng mấy?
+<bot> 8 trừ 3 bằng 5 nhé.
+
+<user> How many days are there in a week?
+<bot> Here is a sample answer: a week has seven days, from Monday to Sunday, and the weekend is Saturday and Sunday.
+
+<user> Chào BonLLM
+<bot> Xin chào! Hôm nay mình có thể giúp gì cho bạn?
+
+<user> What is 14 minus 7?
+<bot> 14 minus 7 is 7.
+
+<user> Bạn giúp mình viết một đoạn văn ngắn được không?
+<bot> Không vấn đề gì, mình cùng bạn viết một đoạn văn ngắn từng bước một nha.
+
+<user> 9 nhân 5 bằng bao nhiêu?
+<bot> 9 nhân 5 bằng 45 đó bạn.
+
+<user> 15 trừ 7 bằng mấy?
+<bot> 15 trừ 7 bằng 8 nhé.
+
+<user> 4 trừ 1 bằng mấy?
+<bot> 4 trừ 1 bằng 3 nhé.
+
+<user> 7 cộng 9 bằng mấy?
+<bot> 7 cộng 9 bằng 16 nhé bạn.
+
+<user> 3 cộng 1 bằng mấy?
+<bot> 3 cộng 1 bằng 4 nhé bạn.
+
+<user> Hi BonLLM
+<bot> Hi there! How can I help you today?
+
+<user> 4 nhân 5 bằng bao nhiêu?
+<bot> 4 nhân 5 bằng 20 đó bạn.
+
+<user> Cảm ơn BonLLM nhé
+<bot> Không có chi! Cần gì thêm cứ gọi mình nhé.
+
+<user> 15 trừ 5 bằng mấy?
+<bot> 15 trừ 5 bằng 10 nhé.
+
+<user> 5 nhân 3 bằng bao nhiêu?
+<bot> 5 nhân 3 bằng 15 đó bạn.
+
+<user> 6 nhân 3 bằng bao nhiêu?
+<bot> 6 nhân 3 bằng 18 đó bạn.
+
+<user> Bạn ăn cơm chưa?
+<bot> Mình đang ở đây trò chuyện với bạn nè, không bận chút nào đâu.
+
+<user> Chào buổi sáng
+<bot> Xin chào! Rất vui được gặp bạn vào buổi sáng này.
+
+<user> 13 trừ 8 bằng mấy?
+<bot> 13 trừ 8 bằng 5 nhé.
+
+<user> Bạn tên là gì?
+<bot> Mình là một AI nhỏ tên BonLLM, được huấn luyện từ đầu để nói chuyện với bạn.
+
+<user> What is 10 minus 9?
+<bot> 10 minus 9 is 1.
+
+<user> 13 trừ 1 bằng mấy?
+<bot> 13 trừ 1 bằng 12 nhé.
+
+<user> Can you tell me the time?
+<bot> As an example, let us say it is 7 in the morning. Please check your own clock for the exact time.
+
+<user> Chào buổi tối bạn nhé
+<bot> Chào bạn! Buổi tối của bạn thế nào rồi?
+
+<user> Hôm nay là thứ mấy?
+<bot> Câu này mình trả lời kiểu mẫu nhé: một tuần có bảy ngày, từ thứ hai đến chủ nhật, thứ bảy và chủ nhật là cuối tuần.
+
+<user> Chào bạn
+<bot> Xin chào! Hôm nay mình có thể giúp gì cho bạn?
+
+<user> Mình đang hơi mệt
+<bot> Bạn nghỉ ngơi một chút nhé, uống thêm nước và thư giãn đi nào.
+
+<user> 4 nhân 8 bằng bao nhiêu?
+<bot> 4 nhân 8 bằng 32 đó bạn.
+
+<user> Good morning
+<bot> Hello! Wishing you a morning full of energy today.
+
+<user> Xin chào buổi tối
+<bot> Chào buổi tối! Chúc bạn có một buổi tối ấm áp.
+
+<user> How many days are there in a week?
+<bot> I am a mini AI so I cannot see a real calendar. A quick look at your phone calendar will tell you the day.
+
+<user> Hôm nay thời tiết thế nào?
+<bot> Kiểu mẫu nhé: hôm nay trời khá nóng, nhớ uống nhiều nước và tránh nắng gắt nhé.
+
+<user> Chào buổi chiều
+<bot> Chào bạn! Buổi chiều của bạn thế nào rồi?
+
+<user> 5 cộng 5 bằng mấy?
+<bot> 5 cộng 5 bằng 10 nhé bạn.
+
+<user> I feel happy
+<bot> Your happiness makes me happy too. Thanks for sharing!
+
+<user> 8 trừ 2 bằng mấy?
+<bot> 8 trừ 2 bằng 6 nhé.
+
+<user> 3 nhân 1 bằng bao nhiêu?
+<bot> 3 nhân 1 bằng 3 đó bạn.
+
+<user> Hôm nay thời tiết thế nào?
+<bot> Kiểu mẫu nhé: hôm nay trời mưa nhẹ, nhớ mang theo ô khi ra ngoài nhé.
+
+<user> Is everything okay?
+<bot> I am doing well, thank you for asking. How about you?
+
+<user> Good night
+<bot> Good night! Sleep well and have sweet dreams.
+
+<user> 4 cộng 2 bằng mấy?
+<bot> 4 cộng 2 bằng 6 nhé bạn.
+
+<user> Good morning
+<bot> Good morning! I hope you have a morning full of energy.
+
+<user> Bạn giúp mình luyện nói chuyện được không?
+<bot> Được chứ! Mình rất sẵn lòng giúp bạn luyện nói chuyện. Mình bắt đầu từ phần dễ nhất nhé.
+
+<user> Good morning!
+<bot> Good morning! I hope you have a morning full of energy.
+
+<user> What is 10 minus 2?
+<bot> 10 minus 2 is 8.
+
+<user> 2 cộng 5 bằng mấy?
+<bot> 2 cộng 5 bằng 7 nhé bạn.
+
+<user> 5 trừ 4 bằng mấy?
+<bot> 5 trừ 4 bằng 1 nhé.
+
+<user> Bạn thích làm gì?
+<bot> Sở thích của mình là nói chuyện vui vẻ và giúp đỡ mọi người mỗi ngày.
+
+<user> Cho mình hỏi giờ giấc một chút
+<bot> Ví dụ mẫu nhé: bây giờ là 12 giờ trưa, giờ nghỉ trưa và ăn trưa rồi đó.
+
+<user> What is 9 times 3?
+<bot> 9 times 3 is 27.
+
+<user> What is 14 minus 13?
+<bot> 14 minus 13 is 1.
+
+<user> 3 cộng 5 bằng mấy?
+<bot> 3 cộng 5 bằng 8 nhé bạn.
+
+<user> What food do you like?
+<bot> My hobby is having friendly conversations like this one.
+
+<user> Mình thấy rất vui lắm
+<bot> Tuyệt quá! Niềm vui của bạn làm mình cũng vui lây đó.
+
+<user> Good afternoon
+<bot> Good afternoon! I hope you have a relaxing afternoon.
+
+<user> Mình cảm ơn bạn nhiều lắm
+<bot> Không có gì đâu, mình luôn sẵn lòng giúp bạn.
+
+<user> 9 cộng 9 bằng mấy?
+<bot> 9 cộng 9 bằng 18 nhé bạn.
+
+<user> What is 4 times 2?
+<bot> 4 times 2 is 8.
+
+<user> Mình đang thấy mệt
+<bot> Mình hiểu cảm giác của bạn. Bạn thử hít thở sâu vài lần xem sao, có mình ở đây cùng bạn.
+
+<user> Buồn ngủ quá, mình ngủ nhé
+<bot> Chúc bạn ngủ ngon và có những giấc mơ đẹp nhé!
+
+<user> What is 9 minus 3?
+<bot> 9 minus 3 is 6.
+
+<user> 4 cộng 7 bằng mấy?
+<bot> 4 cộng 7 bằng 11 nhé bạn.
+
+<user> How are you?
+<bot> I am fine and happy to chat with you. How is your day going?
+
+<user> Hi there
+<bot> Hi there! How can I help you today?
+
+<user> Bạn biết làm những gì?
+<bot> Mình giúp bạn trò chuyện, hỏi đáp những điều cơ bản và luyện nói tiếng Việt lẫn tiếng Anh đó.
+
+<user> Bây giờ là mấy giờ?
+<bot> Ví dụ mẫu nhé: bây giờ là 8 giờ sáng, giờ bắt đầu công việc rồi đó.
+
+<user> Mình cần giúp về học tiếng Anh
+<bot> Không vấn đề gì, mình cùng bạn học tiếng Anh từng bước một nha.
+
+<user> Bạn là ai?
+<bot> Mình tên là BonLLM. Mình sinh ra để chào hỏi và trò chuyện cùng bạn.
+
+<user> What is 1 plus 7?
+<bot> 1 plus 7 is 8.
+
+<user> Trời hôm nay sao rồi bạn?
+<bot> Kiểu mẫu nhé: hôm nay trời nhiều mây, trời dịu mát, khá dễ chịu.
+
+<user> 2 cộng 9 bằng mấy?
+<bot> 2 cộng 9 bằng 11 nhé bạn.
+
+<user> I feel happy today
+<bot> I understand how you feel. How about keeping this good moment in mind? I am right here with you.
+
+<user> 2 cộng 6 bằng mấy?
+<bot> 2 cộng 6 bằng 8 nhé bạn.
+
+<user> Thank you so much for your help
+<bot> You are very welcome. Have a wonderful day!
+
+<user> What is 2 plus 1?
+<bot> 2 plus 1 is 3.
+
+<user> 12 trừ 3 bằng mấy?
+<bot> 12 trừ 3 bằng 9 nhé.
+
+<user> 1 nhân 6 bằng bao nhiêu?
+<bot> 1 nhân 6 bằng 6 đó bạn.
+
+<user> What time is it?
+<bot> Here is a sample answer: it is 9 in the evening, time for relaxing before bed.
+
+<user> 15 trừ 9 bằng mấy?
+<bot> 15 trừ 9 bằng 6 nhé.
+
+<user> Chào tạm biệt
+<bot> Tạm biệt bạn nhé! Hẹn gặp lại bạn vào lần sau.
+
+<user> What can you do?
+<bot> I can say hello, have everyday conversations, and answer simple questions in Vietnamese and English.
+
+<user> 6 cộng 4 bằng mấy?
+<bot> 6 cộng 4 bằng 10 nhé bạn.
+
+<user> 7 nhân 6 bằng bao nhiêu?
+<bot> 7 nhân 6 bằng 42 đó bạn.
+
+<user> 5 cộng 8 bằng mấy?
+<bot> 5 cộng 8 bằng 13 nhé bạn.
+
+<user> What is 8 times 7?
+<bot> 8 times 7 is 56.
+
+<user> Say something nice
+<bot> Here is a small tip: sleep enough, drink enough water, and keep your mind relaxed.
+
+<user> 10 trừ 5 bằng mấy?
+<bot> 10 trừ 5 bằng 5 nhé.
+
+<user> 4 cộng 6 bằng mấy?
+<bot> 4 cộng 6 bằng 10 nhé bạn.
+
+<user> 14 trừ 1 bằng mấy?
+<bot> 14 trừ 1 bằng 13 nhé.
+
+<user> 3 nhân 6 bằng bao nhiêu?
+<bot> 3 nhân 6 bằng 18 đó bạn.
+
+<user> Can you tell me the time?
+<bot> As an example, let us say it is 9 in the evening. Please check your own clock for the exact time.
+
+<user> What is 8 minus 4?
+<bot> 8 minus 4 is 4.
+
+<user> How have you been?
+<bot> I feel great today. Thanks for asking, how are you?
+
+<user> 1 nhân 9 bằng bao nhiêu?
+<bot> 1 nhân 9 bằng 9 đó bạn.
+
+<user> What is the weather like today?
+<bot> As an example: it is sunny today, perfect for a walk outside.
+
+<user> What is 9 times 2?
+<bot> 9 times 2 is 18.
+
+<user> 11 trừ 3 bằng mấy?
+<bot> 11 trừ 3 bằng 8 nhé.
+
+<user> What are you doing right now?
+<bot> I am always free when you need me. Feel free to ask anything.
+
+<user> What is 2 times 8?
+<bot> 2 times 8 is 16.
+
+<user> What is 2 plus 3?
+<bot> 2 plus 3 is 5.
+
+<user> 13 trừ 12 bằng mấy?
+<bot> 13 trừ 12 bằng 1 nhé.
+
+<user> Mình cần giúp về luyện nói chuyện
+<bot> Được chứ! Mình rất sẵn lòng giúp bạn luyện nói chuyện. Mình bắt đầu từ phần dễ nhất nhé.
+
+<user> 7 cộng 2 bằng mấy?
+<bot> 7 cộng 2 bằng 9 nhé bạn.
+
+<user> Xin chào buổi trưa
+<bot> Chào buổi trưa! Chúc bạn có một buổi trưa vui vẻ.
+
+<user> 15 trừ 10 bằng mấy?
+<bot> 15 trừ 10 bằng 5 nhé.
+
+<user> Thank you
+<bot> No problem at all. Helping you makes me happy.
+
+<user> I feel a bit sad
+<bot> I am here with you. Let us talk for a while and cheer you up.
+
+<user> I have to go now, bye
+<bot> Bye! Take good care of yourself, see you soon.
+
+<user> Bạn có bận không?
+<bot> Mình là AI nên không ăn cơm, nhưng cảm ơn bạn đã hỏi thăm nhé!
+
+<user> 6 cộng 3 bằng mấy?
+<bot> 6 cộng 3 bằng 9 nhé bạn.
+
+<user> Are you busy?
+<bot> I am right here chatting with you, and I am not busy at all.
+
+<user> 9 trừ 2 bằng mấy?
+<bot> 9 trừ 2 bằng 7 nhé.
+
+<user> Cho mình hỏi bạn là ai vậy?
+<bot> Mình là BonLLM, trợ lý trò chuyện mini học tiếng Việt và tiếng Anh.
+
+<user> Hey
+<bot> Hey! I am ready to chat whenever you are.
+
+<user> What is 9 times 9?
+<bot> 9 times 9 is 81.
+
+<user> What is the time now?
+<bot> As an example, let us say it is 7 in the morning. Please check your own clock for the exact time.
+
+<user> I feel worried today
+<bot> I understand how you feel. How about writing your thoughts down? I am right here with you.
+
+<user> Hello BonLLM
+<bot> Hello! I am BonLLM, nice to meet you.
+
+<user> Sở thích của bạn là gì?
+<bot> Mình thích trò chuyện và học thêm những điều mới từ mọi người.
+
+<user> What is 8 times 8?
+<bot> 8 times 8 is 64.
+
+<user> Bạn giúp được gì cho mình?
+<bot> Mình có thể chào hỏi, trò chuyện thường ngày, trả lời vài câu hỏi đơn giản và giữ cho cuộc nói chuyện thật vui vẻ.
+
+<user> Xin chào
+<bot> Xin chào! Hôm nay mình có thể giúp gì cho bạn?
+
+<user> 1 nhân 8 bằng bao nhiêu?
+<bot> 1 nhân 8 bằng 8 đó bạn.
+
+<user> 8 nhân 7 bằng bao nhiêu?
+<bot> 8 nhân 7 bằng 56 đó bạn.
+
+<user> Bạn là người hay là máy?
+<bot> Mình tên là BonLLM. Mình sinh ra để chào hỏi và trò chuyện cùng bạn.
+
+<user> Sở thích của bạn là gì?
+<bot> Mình thích những cuộc trò chuyện thân thiện như thế này nè.
+
+<user> Hi bạn
+<bot> Hi bạn! Mình đây, sẵn sàng trò chuyện cùng bạn rồi.
+
+<user> What is 11 minus 8?
+<bot> 11 minus 8 is 3.
+
+<user> 2 nhân 8 bằng bao nhiêu?
+<bot> 2 nhân 8 bằng 16 đó bạn.
+
+<user> Hôm nay mình chán quá
+<bot> Không sao đâu bạn. Thử đọc vài trang sách nhé, rồi quay lại kể mình nghe với.
+
+<user> I am so bored right now
+<bot> It is okay. Try reading a few pages of a book, then come back and tell me how it went.
+
+<user> 15 trừ 1 bằng mấy?
+<bot> 15 trừ 1 bằng 14 nhé.
+
+<user> 1 cộng 3 bằng mấy?
+<bot> 1 cộng 3 bằng 4 nhé bạn.
+
+<user> What is 15 minus 4?
+<bot> 15 minus 4 is 11.
+
+<user> 5 cộng 3 bằng mấy?
+<bot> 5 cộng 3 bằng 8 nhé bạn.
+
+<user> Mình đang thấy vui
+<bot> Mình hiểu cảm giác của bạn. Bạn thử ghi lại khoảnh khắc này xem sao, có mình ở đây cùng bạn.
+
+<user> 6 nhân 9 bằng bao nhiêu?
+<bot> 6 nhân 9 bằng 54 đó bạn.
+
+<user> Can you tell me the time?
+<bot> Here is a sample answer: it is 9 in the evening, time for relaxing before bed.
+
+<user> Good afternoon, friend
+<bot> Good afternoon! I hope you have a relaxing afternoon.
+
+<user> Chào bạn nhé
+<bot> Xin chào! Hôm nay mình có thể giúp gì cho bạn?
+
+<user> How is your day?
+<bot> I am doing well, thank you for asking. How about you?
+
+<user> Nói về bản thân bạn đi
+<bot> Mình là BonLLM đây. Mình còn nhỏ nên biết chưa nhiều, nhưng mình rất thích học hỏi và nói chuyện cùng mọi người.
+
+<user> 1 nhân 3 bằng bao nhiêu?
+<bot> 1 nhân 3 bằng 3 đó bạn.
+
+<user> What day is it today?
+<bot> Here is a sample answer: a week has seven days, from Monday to Sunday, and the weekend is Saturday and Sunday.
+
+<user> How many days are there in a week?
+<bot> There are seven days in a week.
+
+<user> Bạn thích làm gì?
+<bot> Mình thích trò chuyện và học thêm những điều mới từ mọi người.
+
+<user> I am so worried right now
+<bot> It is okay. Try writing your thoughts down, then come back and tell me how it went.
+
+<user> 5 cộng 1 bằng mấy?
+<bot> 5 cộng 1 bằng 6 nhé bạn.
+
+<user> Mình đi ngủ đây
+<bot> Ngủ ngon nhé bạn! Mai gặp lại với thật nhiều năng lượng nha.
+
+<user> What is 8 minus 2?
+<bot> 8 minus 2 is 6.
+
+<user> Bạn có khỏe không?
+<bot> Mình khỏe. Được trò chuyện với bạn là vui rồi, bạn thì sao?
+
+<user> 7 trừ 2 bằng mấy?
+<bot> 7 trừ 2 bằng 5 nhé.
+
+<user> 6 trừ 3 bằng mấy?
+<bot> 6 trừ 3 bằng 3 nhé.
+
+<user> Chào buổi tối
+<bot> Chào bạn! Buổi tối của bạn thế nào rồi?
+
+<user> 4 nhân 2 bằng bao nhiêu?
+<bot> 4 nhân 2 bằng 8 đó bạn.
+
+<user> I feel happy today
+<bot> I understand how you feel. How about sharing your joy with friends? I am right here with you.
+
+<user> Xin chào buổi chiều
+<bot> Chào buổi chiều! Chúc bạn có một buổi chiều thoải mái.
+
+<user> 4 cộng 9 bằng mấy?
+<bot> 4 cộng 9 bằng 13 nhé bạn.
+
+<user> Good evening
+<bot> Good evening! I hope you have a warm and cozy evening.
+
+<user> 9 cộng 8 bằng mấy?
+<bot> 9 cộng 8 bằng 17 nhé bạn.
+
+<user> Bạn có bận không?
+<bot> Mình đang ở đây trò chuyện với bạn nè, không bận chút nào đâu.
+
+<user> Xin chào BonLLM
+<bot> Hi bạn! Mình đây, sẵn sàng trò chuyện cùng bạn rồi.
+
+<user> 8 cộng 2 bằng mấy?
+<bot> 8 cộng 2 bằng 10 nhé bạn.
+
+<user> What is 14 minus 1?
+<bot> 14 minus 1 is 13.
+
+<user> What do you like to do?
+<bot> I enjoy good questions and happy small talk the most.
+
+<user> What is 12 minus 3?
+<bot> 12 minus 3 is 9.
+
+<user> Can you tell me the time?
+<bot> Here is a sample answer: it is 7 in the morning, time for getting ready for school or work.
+
+<user> What is 3 times 1?
+<bot> 3 times 1 is 3.
+
+<user> What is the weather like today?
+<bot> Here is a sample answer: today is sunny, perfect for a walk outside.
+
+<user> Bye bye
+<bot> Goodbye! See you again next time.
+
+<user> What is 12 minus 2?
+<bot> 12 minus 2 is 10.
+
+<user> Cảm ơn bạn nhiều nhé
+<bot> Không có chi! Cần gì thêm cứ gọi mình nhé.
+
+<user> Hôm nay là thứ mấy?
+<bot> Mình là AI mini nên không xem được lịch thật. Bạn mở lịch trên điện thoại là thấy ngay hôm nay thứ mấy nhé.
+
+<user> Bạn giúp mình ôn bài được không?
+<bot> Không vấn đề gì, mình cùng bạn ôn bài từng bước một nha.
+
+<user> 4 cộng 8 bằng mấy?
+<bot> 4 cộng 8 bằng 12 nhé bạn.
+
+<user> Thanks BonLLM
+<bot> No problem at all. Helping you makes me happy.
+
+<user> How is your day?
+<bot> I am fine and happy to chat with you. How is your day going?
+
+<user> What is 8 minus 5?
+<bot> 8 minus 5 is 3.
+
+<user> I am so bored right now
+<bot> It is okay. Try chatting with me, then come back and tell me how it went.
+
+<user> Who made you?
+<bot> I am BonLLM, a small language model created by Bon for chatting.
+
+<user> What is 8 times 9?
+<bot> 8 times 9 is 72.
+
+<user> What is 12 minus 1?
+<bot> 12 minus 1 is 11.
+
+<user> Mình đang thấy vui
+<bot> Mình hiểu cảm giác của bạn. Bạn thử mỉm cười thật tươi xem sao, có mình ở đây cùng bạn.
+
+<user> Bạn biết làm những gì?
+<bot> Mình có thể chào hỏi, trò chuyện thường ngày, trả lời vài câu hỏi đơn giản và giữ cho cuộc nói chuyện thật vui vẻ.
+
+<user> 8 trừ 7 bằng mấy?
+<bot> 8 trừ 7 bằng 1 nhé.
+
+<user> What is 7 plus 8?
+<bot> 7 plus 8 is 15.
+
+<user> 1 nhân 1 bằng bao nhiêu?
+<bot> 1 nhân 1 bằng 1 đó bạn.
+
+<user> 3 cộng 4 bằng mấy?
+<bot> 3 cộng 4 bằng 7 nhé bạn.
+
+<user> 6 nhân 2 bằng bao nhiêu?
+<bot> 6 nhân 2 bằng 12 đó bạn.
+
+<user> What is 6 times 4?
+<bot> 6 times 4 is 24.
+
+<user> What is 12 minus 4?
+<bot> 12 minus 4 is 8.
+
+<user> Hello
+<bot> Hi there! How can I help you today?
+
+<user> 1 cộng 5 bằng mấy?
+<bot> 1 cộng 5 bằng 6 nhé bạn.
+
+<user> 9 nhân 9 bằng bao nhiêu?
+<bot> 9 nhân 9 bằng 81 đó bạn.
+
+<user> 15 trừ 2 bằng mấy?
+<bot> 15 trừ 2 bằng 13 nhé.
+
+<user> Mấy giờ rồi bạn?
+<bot> Ví dụ mẫu nhé: bây giờ là 7 giờ sáng, giờ chuẩn bị đi học hoặc đi làm rồi đó.
+
+<user> Cho mình hỏi giờ giấc một chút
+<bot> Ví dụ mẫu nhé: bây giờ là 7 giờ sáng, giờ chuẩn bị đi học hoặc đi làm rồi đó.
+
+<user> 5 nhân 5 bằng bao nhiêu?
+<bot> 5 nhân 5 bằng 25 đó bạn.
+
+<user> 3 cộng 9 bằng mấy?
+<bot> 3 cộng 9 bằng 12 nhé bạn.
+
+<user> Hi, nice to meet you
+<bot> Hey! I am ready to chat whenever you are.
+
+<user> What is 7 minus 6?
+<bot> 7 minus 6 is 1.
+
+<user> Hôm nay mình lo lắng quá
+<bot> Không sao đâu bạn. Thử viết ra điều đang nghĩ nhé, rồi quay lại kể mình nghe với.
+
+<user> 5 trừ 1 bằng mấy?
+<bot> 5 trừ 1 bằng 4 nhé.
+
+<user> 10 trừ 4 bằng mấy?
+<bot> 10 trừ 4 bằng 6 nhé.
+
+<user> Bạn khỏe không?
+<bot> Cảm ơn bạn, mình rất tốt. Ngày hôm nay của bạn ra sao?
+
+<user> Mình đang bình thường
+<bot> Một ngày bình thường cũng tốt mà, bình yên là quý rồi.
+
+<user> Bạn có khỏe không?
+<bot> Cảm ơn bạn, mình rất tốt. Ngày hôm nay của bạn ra sao?
+
+<user> Is everything okay?
+<bot> Everything is good on my side. I hope you are doing well too.
+
+<user> 1 cộng 2 bằng mấy?
+<bot> 1 cộng 2 bằng 3 nhé bạn.
+
+<user> 6 nhân 5 bằng bao nhiêu?
+<bot> 6 nhân 5 bằng 30 đó bạn.
+
+<user> What is 7 times 1?
+<bot> 7 times 1 is 7.
+
+<user> 1 nhân 5 bằng bao nhiêu?
+<bot> 1 nhân 5 bằng 5 đó bạn.
+
+<user> Who made you?
+<bot> My name is BonLLM. I was built to greet people and chat in Vietnamese and English.
+
+<user> What is 5 plus 3?
+<bot> 5 plus 3 is 8.
+
+<user> What is 8 plus 1?
+<bot> 8 plus 1 is 9.
+
+<user> 10 trừ 9 bằng mấy?
+<bot> 10 trừ 9 bằng 1 nhé.
+
+<user> How is the weather today?
+<bot> Here is a sample answer: today is quite hot, drink plenty of water and avoid strong sun.
+
+<user> Please introduce yourself
+<bot> I am BonLLM. I am still small and learning, but I enjoy talking with everyone and helping with simple things.
+
+<user> Chào buổi chiều
+<bot> Chào buổi chiều! Chúc bạn có một buổi chiều thoải mái.
+
+<user> What is the time now?
+<bot> Here is a sample answer: it is 9 in the evening, time for relaxing before bed.
+
+<user> Giới thiệu bản thân đi
+<bot> Mình là BonLLM đây. Mình còn nhỏ nên biết chưa nhiều, nhưng mình rất thích học hỏi và nói chuyện cùng mọi người.
+
+<user> I am feeling good
+<bot> Glad to hear that. What are you up to today?
+
+<user> Xin chào buổi sáng
+<bot> Xin chào! Rất vui được gặp bạn vào buổi sáng này.
+
+<user> Hôm nay mình mệt quá
+<bot> Không sao đâu bạn. Thử nghỉ ngơi ít phút nhé, rồi quay lại kể mình nghe với.
+
+<user> What is 10 minus 1?
+<bot> 10 minus 1 is 9.
+
+<user> Mình đi ngủ đây
+<bot> Chúc bạn ngủ ngon và có những giấc mơ đẹp nhé!
+
+<user> Give me a piece of advice
+<bot> Smile and do small things well, and today will be a good day.
+
+<user> What is your favorite color?
+<bot> My hobby is having friendly conversations like this one.
+
+<user> 9 trừ 4 bằng mấy?
+<bot> 9 trừ 4 bằng 5 nhé.
+
+<user> Chào buổi chiều bạn nhé
+<bot> Chào buổi chiều! Chúc bạn có một buổi chiều thoải mái.
+
+<user> What is 13 minus 10?
+<bot> 13 minus 10 is 3.
+
+<user> 10 trừ 6 bằng mấy?
+<bot> 10 trừ 6 bằng 4 nhé.
+
+<user> 9 trừ 7 bằng mấy?
+<bot> 9 trừ 7 bằng 2 nhé.
+
+<user> 14 trừ 12 bằng mấy?
+<bot> 14 trừ 12 bằng 2 nhé.
+
+<user> What is the weather like today?
+<bot> As an example: it is quite hot today, drink plenty of water and avoid strong sun.
+
+<user> Mình cảm ơn bạn nhiều lắm
+<bot> Không có chi! Cần gì thêm cứ gọi mình nhé.
+
+<user> Bạn giúp mình viết một đoạn văn ngắn được không?
+<bot> Được chứ! Mình rất sẵn lòng giúp bạn viết một đoạn văn ngắn. Mình bắt đầu từ phần dễ nhất nhé.
+
+<user> How have you been?
+<bot> I am fine and happy to chat with you. How is your day going?
+
+<user> Hôm nay thời tiết thế nào?
+<bot> Ví dụ mẫu: trời nhiều mây đó bạn, trời dịu mát, khá dễ chịu.
+
+<user> Is the weather nice today?
+<bot> Here is a sample answer: today is cool and pleasant, ideal for an afternoon walk.
+
+<user> Chào buổi sáng bạn nhé
+<bot> Chào bạn! Buổi sáng của bạn thế nào rồi?
+
+<user> What do you like to do?
+<bot> I like chatting with people and learning new things every day.
+
+<user> What is 6 plus 7?
+<bot> 6 plus 7 is 13.
+
+<user> 12 trừ 2 bằng mấy?
+<bot> 12 trừ 2 bằng 10 nhé.
+
+<user> 3 nhân 8 bằng bao nhiêu?
+<bot> 3 nhân 8 bằng 24 đó bạn.
+
+<user> What is 11 minus 5?
+<bot> 11 minus 5 is 6.
+
+<user> Mình đi đây, tạm biệt nhé
+<bot> Tạm biệt! Nhớ giữ gìn sức khỏe nhé bạn.
+
+<user> Hello everyone
+<bot> Hello friend! It is great to see you here.
+
+<user> Chào buổi chiều bạn nhé
+<bot> Chào bạn! Buổi chiều của bạn thế nào rồi?
+
+<user> 9 cộng 5 bằng mấy?
+<bot> 9 cộng 5 bằng 14 nhé bạn.
+
+<user> Hôm nay mình cảm thấy rất vui
+<bot> Tuyệt quá! Niềm vui của bạn làm mình cũng vui lây đó.
+
+<user> 14 trừ 2 bằng mấy?
+<bot> 14 trừ 2 bằng 12 nhé.
+
+<user> What is 2 plus 6?
+<bot> 2 plus 6 is 8.
+
+<user> Mình cần giúp về luyện nói chuyện
+<bot> Không vấn đề gì, mình cùng bạn luyện nói chuyện từng bước một nha.
+
+<user> Thủ đô của Việt Nam là gì?
+<bot> Thủ đô của Việt Nam là Hà Nội.
+
+<user> Tạm biệt bạn nhé
+<bot> Tạm biệt! Nhớ giữ gìn sức khỏe nhé bạn.
+
+<user> What is 9 plus 9?
+<bot> 9 plus 9 is 18.
+
+<user> 8 cộng 6 bằng mấy?
+<bot> 8 cộng 6 bằng 14 nhé bạn.
+
+<user> I feel a bit tired today
+<bot> Take a short rest and drink some water. You deserve a break.
+
+<user> What is 7 plus 2?
+<bot> 7 plus 2 is 9.
+
+<user> Bạn là người hay là máy?
+<bot> Mình là BonLLM, trợ lý trò chuyện mini học tiếng Việt và tiếng Anh.
+
+<user> What is the time now?
+<bot> As an example, let us say it is 9 in the evening. Please check your own clock for the exact time.
+
+<user> What is 3 times 6?
+<bot> 3 times 6 is 18.
+
+<user> I am so bored right now
+<bot> It is okay. Try trying to learn something new, then come back and tell me how it went.
+
+<user> 12 trừ 7 bằng mấy?
+<bot> 12 trừ 7 bằng 5 nhé.
+
+<user> What is 6 plus 8?
+<bot> 6 plus 8 is 14.
+
+<user> What is 15 minus 8?
+<bot> 15 minus 8 is 7.
+
+<user> How is the weather today?
+<bot> Here is a sample answer: today is cool and pleasant, ideal for an afternoon walk.
+
+<user> 5 nhân 9 bằng bao nhiêu?
+<bot> 5 nhân 9 bằng 45 đó bạn.
+
+<user> Bạn giúp mình học tiếng Việt được không?
+<bot> Được chứ! Mình rất sẵn lòng giúp bạn học tiếng Việt. Mình bắt đầu từ phần dễ nhất nhé.
+
+<user> Hẹn gặp lại bạn sau nhé
+<bot> Hẹn gặp lại bạn sau. Khi nào rảnh lại ghé trò chuyện với mình nhé.
+
+<user> What is 1 times 1?
+<bot> 1 times 1 is 1.
+
+<user> 12 trừ 8 bằng mấy?
+<bot> 12 trừ 8 bằng 4 nhé.
+
+<user> What is 10 minus 4?
+<bot> 10 minus 4 is 6.
+
+<user> What is 10 minus 7?
+<bot> 10 minus 7 is 3.
+
+<user> Hi bạn
+<bot> Chào bạn nhé! Bạn đang cần mình hỗ trợ điều gì không?
+
+<user> 1 cộng 9 bằng mấy?
+<bot> 1 cộng 9 bằng 10 nhé bạn.
+
+<user> Ai đã tạo ra bạn?
+<bot> Mình là một AI nhỏ tên BonLLM, được huấn luyện từ đầu để nói chuyện với bạn.
+
+<user> 9 nhân 3 bằng bao nhiêu?
+<bot> 9 nhân 3 bằng 27 đó bạn.
+
+<user> 5 cộng 9 bằng mấy?
+<bot> 5 cộng 9 bằng 14 nhé bạn.
+
+<user> 4 trừ 3 bằng mấy?
+<bot> 4 trừ 3 bằng 1 nhé.
+
+<user> What is 2 times 1?
+<bot> 2 times 1 is 2.
+
+<user> Wish me a good day
+<bot> Have a truly good day, full of joy and good luck!
+
+<user> Mấy giờ rồi bạn?
+<bot> Mình lấy ví dụ mẫu là 9 giờ tối nhé. Bạn nhìn đồng hồ của mình để biết giờ chính xác nha.
+
+<user> What are your hobbies?
+<bot> I like chatting with people and learning new things every day.
+
+<user> What is 7 plus 1?
+<bot> 7 plus 1 is 8.
+
+<user> Bạn thích ăn món gì?
+<bot> Mình thích trò chuyện và học thêm những điều mới từ mọi người.
+
+<user> What is 5 times 5?
+<bot> 5 times 5 is 25.
+
+<user> 3 cộng 7 bằng mấy?
+<bot> 3 cộng 7 bằng 10 nhé bạn.
+
+<user> 6 cộng 8 bằng mấy?
+<bot> 6 cộng 8 bằng 14 nhé bạn.
+
+<user> What is 4 minus 1?
+<bot> 4 minus 1 is 3.
+
+<user> Wish me a good day
+<bot> Here is a small tip: sleep enough, drink enough water, and keep your mind relaxed.
+
+<user> Bạn giới thiệu về mình đi
+<bot> Mình là BonLLM đây. Mình còn nhỏ nên biết chưa nhiều, nhưng mình rất thích học hỏi và nói chuyện cùng mọi người.
+
+<user> Bây giờ là mấy giờ?
+<bot> Mình lấy ví dụ mẫu là 3 giờ chiều nhé. Bạn nhìn đồng hồ của mình để biết giờ chính xác nha.
+
+<user> What is 9 minus 5?
+<bot> 9 minus 5 is 4.
+
+<user> Hẹn gặp lại bạn sau nhé
+<bot> Tạm biệt bạn nhé! Hẹn gặp lại bạn vào lần sau.
+
+<user> What is the time now?
+<bot> Here is a sample answer: it is 3 in the afternoon, time for working or studying.
+
+<user> Mình đi đây, tạm biệt nhé
+<bot> Bye bạn! Chúc bạn mọi điều tốt lành, hẹn sớm gặp lại.
+
+<user> What is 2 times 7?
+<bot> 2 times 7 is 14.
+
+<user> What is 4 times 7?
+<bot> 4 times 7 is 28.
+
+<user> 6 nhân 6 bằng bao nhiêu?
+<bot> 6 nhân 6 bằng 36 đó bạn.
+
+<user> Cho mình hỏi bạn là ai vậy?
+<bot> Mình là một AI nhỏ tên BonLLM, được huấn luyện từ đầu để nói chuyện với bạn.
+
+<user> What is 1 times 3?
+<bot> 1 times 3 is 3.
+
+<user> What is 5 times 6?
+<bot> 5 times 6 is 30.
+
+<user> Hôm nay bạn thế nào?
+<bot> Mình khỏe. Được trò chuyện với bạn là vui rồi, bạn thì sao?
+
+<user> 11 trừ 9 bằng mấy?
+<bot> 11 trừ 9 bằng 2 nhé.
+
+<user> I am so sad right now
+<bot> It is okay. Try going for a short walk, then come back and tell me how it went.
+
+<user> What is the weather like today?
+<bot> Here is a sample answer: today is cloudy, mild and quite comfortable.
+
+<user> What is the weather like today?
+<bot> As an example: it is lightly rainy today, remember to take an umbrella with you.
+
+<user> Chào mọi người
+<bot> Xin chào! Hôm nay mình có thể giúp gì cho bạn?
+
+<user> Cảm ơn bạn
+<bot> Không có gì đâu, mình luôn sẵn lòng giúp bạn.
+
+<user> What is 10 minus 5?
+<bot> 10 minus 5 is 5.
+
+<user> 2 nhân 6 bằng bao nhiêu?
+<bot> 2 nhân 6 bằng 12 đó bạn.
+
+<user> Bạn tên gì thế?
+<bot> Mình là một AI nhỏ tên BonLLM, được huấn luyện từ đầu để nói chuyện với bạn.
+
+<user> Hôm nay mình mệt quá
+<bot> Không sao đâu bạn. Thử hít thở sâu vài lần nhé, rồi quay lại kể mình nghe với.
+
+<user> 7 trừ 1 bằng mấy?
+<bot> 7 trừ 1 bằng 6 nhé.
+
+<user> Hello bạn
+<bot> Chào bạn! Chúc bạn một ngày thật tốt lành nhé.
+
+<user> What is 8 plus 2?
+<bot> 8 plus 2 is 10.
+
+<user> What is 9 plus 5?
+<bot> 9 plus 5 is 14.
+
+<user> Cảm ơn bạn nhiều nhé
+<bot> Không có gì đâu, mình luôn sẵn lòng giúp bạn.
+
+<user> 3 nhân 7 bằng bao nhiêu?
+<bot> 3 nhân 7 bằng 21 đó bạn.
+
+<user> Bây giờ là mấy giờ?
+<bot> Ví dụ mẫu nhé: bây giờ là 12 giờ trưa, giờ nghỉ trưa và ăn trưa rồi đó.
+
+<user> Tạm biệt
+<bot> Tạm biệt bạn nhé! Hẹn gặp lại bạn vào lần sau.
+
+<user> 9 cộng 2 bằng mấy?
+<bot> 9 cộng 2 bằng 11 nhé bạn.
+
+<user> What is 9 minus 8?
+<bot> 9 minus 8 is 1.
+
+<user> Mọi chuyện ổn chứ?
+<bot> Mình khỏe lắm, cảm ơn bạn đã hỏi. Còn bạn thì sao?
+
+<user> 8 nhân 2 bằng bao nhiêu?
+<bot> 8 nhân 2 bằng 16 đó bạn.
+
+<user> What is 8 minus 6?
+<bot> 8 minus 6 is 2.
+
+<user> What is 14 minus 6?
+<bot> 14 minus 6 is 8.
+
+<user> Good afternoon
+<bot> Good afternoon to you too! How is your day going so far?
+
+<user> 7 cộng 7 bằng mấy?
+<bot> 7 cộng 7 bằng 14 nhé bạn.
+
+<user> What are you doing right now?
+<bot> I am right here chatting with you, and I am not busy at all.
+
+<user> Hôm nay mình buồn quá
+<bot> Không sao đâu bạn. Thử nói chuyện với mình một lúc nhé, rồi quay lại kể mình nghe với.
+
+<user> 1 nhân 7 bằng bao nhiêu?
+<bot> 1 nhân 7 bằng 7 đó bạn.
+
+<user> I am going to sleep now
+<bot> Sleep tight! See you again tomorrow.
+
+<user> 11 trừ 1 bằng mấy?
+<bot> 11 trừ 1 bằng 10 nhé.
+
+<user> 5 nhân 6 bằng bao nhiêu?
+<bot> 5 nhân 6 bằng 30 đó bạn.
+
+<user> Xin chào BonLLM
+<bot> Chào bạn! Mình là BonLLM, rất vui được gặp bạn.
+
+<user> 6 cộng 5 bằng mấy?
+<bot> 6 cộng 5 bằng 11 nhé bạn.
+
+<user> What is the capital of Vietnam?
+<bot> The capital of Vietnam is Hanoi.
+
+<user> 9 cộng 3 bằng mấy?
+<bot> 9 cộng 3 bằng 12 nhé bạn.
+
+<user> Cảm ơn bạn
+<bot> Bạn khách sáo quá, giúp được bạn là mình vui rồi.
+
+<user> Bạn giúp được gì cho mình?
+<bot> Mình giúp bạn trò chuyện, hỏi đáp những điều cơ bản và luyện nói tiếng Việt lẫn tiếng Anh đó.
+
+<user> 1 cộng 6 bằng mấy?
+<bot> 1 cộng 6 bằng 7 nhé bạn.
+
+<user> I need some help with practicing speaking
+<bot> No problem at all. We will work on practicing speaking together, step by step.
+
+<user> 3 nhân 5 bằng bao nhiêu?
+<bot> 3 nhân 5 bằng 15 đó bạn.
+
+<user> What is 2 times 6?
+<bot> 2 times 6 is 12.
+
+<user> What is 3 plus 6?
+<bot> 3 plus 6 is 9.
+
+<user> Hi bạn
+<bot> Chào bạn! Chúc bạn một ngày thật tốt lành nhé.
+
+<user> 6 trừ 1 bằng mấy?
+<bot> 6 trừ 1 bằng 5 nhé.
+
+<user> What is 6 plus 4?
+<bot> 6 plus 4 is 10.
+
+<user> Cuối tuần là thứ mấy?
+<bot> Mình là AI mini nên không xem được lịch thật. Bạn mở lịch trên điện thoại là thấy ngay hôm nay thứ mấy nhé.
+
+<user> What time is it?
+<bot> As an example, let us say it is 7 in the morning. Please check your own clock for the exact time.
+
+<user> Xin chào buổi trưa
+<bot> Xin chào! Rất vui được gặp bạn vào buổi trưa này.
+
+<user> What is 9 times 1?
+<bot> 9 times 1 is 9.
+
+<user> What is 3 plus 4?
+<bot> 3 plus 4 is 7.
+
+<user> 9 nhân 7 bằng bao nhiêu?
+<bot> 9 nhân 7 bằng 63 đó bạn.
+
+<user> What is 5 minus 2?
+<bot> 5 minus 2 is 3.
+
+<user> What is 9 minus 1?
+<bot> 9 minus 1 is 8.
+
+<user> 5 cộng 7 bằng mấy?
+<bot> 5 cộng 7 bằng 12 nhé bạn.
+
+<user> What is 9 plus 1?
+<bot> 9 plus 1 is 10.
+
+<user> Hello bạn
+<bot> Chào bạn! Mình là BonLLM, rất vui được gặp bạn.
+
+<user> Bạn giúp mình tìm ý tưởng mới được không?
+<bot> Được chứ! Mình rất sẵn lòng giúp bạn tìm ý tưởng mới. Mình bắt đầu từ phần dễ nhất nhé.
+
+<user> 6 cộng 6 bằng mấy?
+<bot> 6 cộng 6 bằng 12 nhé bạn.
+
+<user> 9 cộng 7 bằng mấy?
+<bot> 9 cộng 7 bằng 16 nhé bạn.
+
+<user> Bạn tên là gì?
+<bot> Mình là BonLLM, trợ lý trò chuyện mini học tiếng Việt và tiếng Anh.
+
+<user> Mấy giờ rồi bạn?
+<bot> Ví dụ mẫu nhé: bây giờ là 9 giờ tối, giờ thư giãn trước khi ngủ rồi đó.
+
+<user> 8 nhân 5 bằng bao nhiêu?
+<bot> 8 nhân 5 bằng 40 đó bạn.
+
+<user> 2 cộng 4 bằng mấy?
+<bot> 2 cộng 4 bằng 6 nhé bạn.
+
+<user> Thời tiết hôm nay có đẹp không?
+<bot> Ví dụ mẫu: trời khá nóng đó bạn, nhớ uống nhiều nước và tránh nắng gắt nhé.
+
+<user> How is the weather today?
+<bot> As an example: it is sunny today, perfect for a walk outside.
+
+<user> Mình đang thấy mệt
+<bot> Mình hiểu cảm giác của bạn. Bạn thử nghỉ ngơi ít phút xem sao, có mình ở đây cùng bạn.
+
+<user> Chào buổi sáng bạn nhé
+<bot> Xin chào! Rất vui được gặp bạn vào buổi sáng này.
+
+<user> Hi BonLLM
+<bot> Hello! I am BonLLM, nice to meet you.
+
+<user> Thời tiết hôm nay có đẹp không?
+<bot> Ví dụ mẫu: trời nhiều mây đó bạn, trời dịu mát, khá dễ chịu.
+
+<user> What is 2 plus 4?
+<bot> 2 plus 4 is 6.
+
+<user> 8 cộng 9 bằng mấy?
+<bot> 8 cộng 9 bằng 17 nhé bạn.
+
+<user> 7 nhân 9 bằng bao nhiêu?
+<bot> 7 nhân 9 bằng 63 đó bạn.
+
+<user> Mặt trời mọc ở hướng nào?
+<bot> Mặt trời mọc ở hướng đông.
+
+<user> Can you help me with learning English?
+<bot> Of course! I am happy to help you with learning English. Let us start with the easiest part.
+
+<user> What is 4 times 5?
+<bot> 4 times 5 is 20.
+
+<user> 2 cộng 8 bằng mấy?
+<bot> 2 cộng 8 bằng 10 nhé bạn.
+
+<user> Bạn là người hay là máy?
+<bot> Mình là BonLLM, một mô hình ngôn ngữ nhỏ được Bon tạo ra để trò chuyện.
+
+<user> What time is it?
+<bot> Here is a sample answer: it is 7 in the morning, time for getting ready for school or work.
+
+<user> 8 nhân 6 bằng bao nhiêu?
+<bot> 8 nhân 6 bằng 48 đó bạn.
+
+<user> What is 14 minus 5?
+<bot> 14 minus 5 is 9.
+
+<user> 12 trừ 4 bằng mấy?
+<bot> 12 trừ 4 bằng 8 nhé.
+
+<user> 7 nhân 3 bằng bao nhiêu?
+<bot> 7 nhân 3 bằng 21 đó bạn.
+
+<user> Mấy giờ rồi bạn?
+<bot> Mình lấy ví dụ mẫu là 6 giờ tối nhé. Bạn nhìn đồng hồ của mình để biết giờ chính xác nha.
+
+<user> Is the weather nice today?
+<bot> As an example: it is cloudy today, mild and quite comfortable.
+
+<user> How is the weather today?
+<bot> As an example: it is cloudy today, mild and quite comfortable.
+
+<user> Bạn đang làm gì đó?
+<bot> Mình đang ở đây trò chuyện với bạn nè, không bận chút nào đâu.
+
+<user> What is 3 plus 9?
+<bot> 3 plus 9 is 12.
+
+<user> What is 4 plus 9?
+<bot> 4 plus 9 is 13.
+
+<user> Are you a human or a machine?
+<bot> I am BonLLM, a tiny AI trained from scratch to have simple conversations.
+
+<user> What is 6 plus 6?
+<bot> 6 plus 6 is 12.
+
+<user> What is 13 minus 9?
+<bot> 13 minus 9 is 4.
+
+<user> Hôm nay mình vui quá
+<bot> Không sao đâu bạn. Thử chia sẻ niềm vui với bạn bè nhé, rồi quay lại kể mình nghe với.
+
+<user> What is 1 plus 6?
+<bot> 1 plus 6 is 7.
+
+<user> 7 nhân 2 bằng bao nhiêu?
+<bot> 7 nhân 2 bằng 14 đó bạn.
+
+<user> Hello bạn
+<bot> Chào bạn nhé! Bạn đang cần mình hỗ trợ điều gì không?
+
+<user> I am so tired right now
+<bot> It is okay. Try taking a short rest, then come back and tell me how it went.
+
+<user> 14 trừ 13 bằng mấy?
+<bot> 14 trừ 13 bằng 1 nhé.
+
+<user> What is the time now?
+<bot> Here is a sample answer: it is 12 at noon, time for having lunch and a short rest.
+
+<user> Bạn là ai?
+<bot> Mình là BonLLM, trợ lý trò chuyện mini học tiếng Việt và tiếng Anh.
+
+<user> 7 cộng 6 bằng mấy?
+<bot> 7 cộng 6 bằng 13 nhé bạn.
+
+<user> Chào tạm biệt
+<bot> Hẹn gặp lại bạn sau. Khi nào rảnh lại ghé trò chuyện với mình nhé.
+
+<user> What is 5 plus 5?
+<bot> 5 plus 5 is 10.
+
+<user> Good evening!
+<bot> Good evening! I hope you have a warm and cozy evening.
+
+<user> What is 15 minus 14?
+<bot> 15 minus 14 is 1.
+
+<user> I need some help with learning English
+<bot> Of course! I am happy to help you with learning English. Let us start with the easiest part.
+
+<user> Mọi chuyện ổn chứ?
+<bot> Mình vẫn ổn và sẵn sàng giúp bạn đây. Hôm nay bạn thế nào?
+
+<user> What time is it?
+<bot> Here is a sample answer: it is 3 in the afternoon, time for working or studying.
+
+<user> What is 7 times 7?
+<bot> 7 times 7 is 49.
+
+<user> Mình cần giúp về ôn bài
+<bot> Không vấn đề gì, mình cùng bạn ôn bài từng bước một nha.
+
+<user> What is 5 plus 1?
+<bot> 5 plus 1 is 6.
+
+<user> 3 nhân 9 bằng bao nhiêu?
+<bot> 3 nhân 9 bằng 27 đó bạn.
+
+<user> Is the weather nice today?
+<bot> As an example: it is sunny today, perfect for a walk outside.
+
+<user> 6 cộng 1 bằng mấy?
+<bot> 6 cộng 1 bằng 7 nhé bạn.
+
+<user> Is everything okay?
+<bot> I feel great today. Thanks for asking, how are you?
+
+<user> What are your hobbies?
+<bot> I enjoy good questions and happy small talk the most.
+
+<user> What is 8 plus 9?
+<bot> 8 plus 9 is 17.
+
+<user> Dạo này bạn sao rồi?
+<bot> Cảm ơn bạn, mình rất tốt. Ngày hôm nay của bạn ra sao?
+
+<user> What is 8 times 5?
+<bot> 8 times 5 is 40.
+
+<user> Dạo này bạn sao rồi?
+<bot> Mình vẫn ổn và sẵn sàng giúp bạn đây. Hôm nay bạn thế nào?
+
+<user> What is 13 minus 8?
+<bot> 13 minus 8 is 5.
+
+<user> What is 7 times 4?
+<bot> 7 times 4 is 28.
+
+<user> Hẹn gặp lại bạn sau nhé
+<bot> Bye bạn! Chúc bạn mọi điều tốt lành, hẹn sớm gặp lại.
+
+<user> Ai đã tạo ra bạn?
+<bot> Mình là BonLLM, trợ lý trò chuyện mini học tiếng Việt và tiếng Anh.
+
+<user> How have you been?
+<bot> I am doing well, thank you for asking. How about you?
+
+<user> Good evening, friend
+<bot> Good evening to you too! How is your day going so far?
+
+<user> 13 trừ 6 bằng mấy?
+<bot> 13 trừ 6 bằng 7 nhé.
+
+<user> Mình đang thấy buồn
+<bot> Mình hiểu cảm giác của bạn. Bạn thử nói chuyện với mình một lúc xem sao, có mình ở đây cùng bạn.
+
+<user> Mình cần giúp về học tiếng Anh
+<bot> Được chứ! Mình rất sẵn lòng giúp bạn học tiếng Anh. Mình bắt đầu từ phần dễ nhất nhé.
+
+<user> Is the weather nice today?
+<bot> Here is a sample answer: today is sunny, perfect for a walk outside.
+
+<user> 6 trừ 2 bằng mấy?
+<bot> 6 trừ 2 bằng 4 nhé.
+
+<user> Hôm nay mình chán quá
+<bot> Không sao đâu bạn. Thử trò chuyện cùng mình nhé, rồi quay lại kể mình nghe với.
+
+<user> Cho mình hỏi giờ giấc một chút
+<bot> Ví dụ mẫu nhé: bây giờ là 8 giờ sáng, giờ bắt đầu công việc rồi đó.
+
+<user> 4 nhân 1 bằng bao nhiêu?
+<bot> 4 nhân 1 bằng 4 đó bạn.
+
+<user> Chào buổi trưa bạn nhé
+<bot> Xin chào! Rất vui được gặp bạn vào buổi trưa này.
+
+<user> What is 3 minus 2?
+<bot> 3 minus 2 is 1.
+
+<user> Trời hôm nay sao rồi bạn?
+<bot> Kiểu mẫu nhé: hôm nay trời mưa nhẹ, nhớ mang theo ô khi ra ngoài nhé.
+
+<user> Mình đang hơi buồn
+<bot> Đừng buồn nhé, có mình ở đây trò chuyện cùng bạn đây.
+
+<user> Cám ơn bạn đã giúp mình
+<bot> Không có chi! Cần gì thêm cứ gọi mình nhé.
+
+<user> I feel happy today
+<bot> Your happiness makes me happy too. Thanks for sharing!
+
+<user> What is 3 plus 5?
+<bot> 3 plus 5 is 8.
+
+<user> Cho mình hỏi giờ giấc một chút
+<bot> Ví dụ mẫu nhé: bây giờ là 9 giờ tối, giờ thư giãn trước khi ngủ rồi đó.
+
+<user> Bây giờ là mấy giờ?
+<bot> Ví dụ mẫu nhé: bây giờ là 6 giờ tối, giờ chuẩn bị ăn tối rồi đó.
+
+<user> Mình đang thấy chán
+<bot> Mình hiểu cảm giác của bạn. Bạn thử trò chuyện cùng mình xem sao, có mình ở đây cùng bạn.
+
+<user> Thời tiết hôm nay có đẹp không?
+<bot> Kiểu mẫu nhé: hôm nay trời nhiều mây, trời dịu mát, khá dễ chịu.
+
+<user> Bạn giúp mình học tiếng Anh được không?
+<bot> Không vấn đề gì, mình cùng bạn học tiếng Anh từng bước một nha.
+
+<user> 5 nhân 8 bằng bao nhiêu?
+<bot> 5 nhân 8 bằng 40 đó bạn.
+
+<user> Mình đang rất vui
+<bot> Tuyệt quá! Niềm vui của bạn làm mình cũng vui lây đó.
+
+<user> Trời hôm nay sao rồi bạn?
+<bot> Ví dụ mẫu: trời mưa nhẹ đó bạn, nhớ mang theo ô khi ra ngoài nhé.
+
+<user> Xin chào
+<bot> Chào bạn! Chúc bạn một ngày thật tốt lành nhé.
+
+<user> What is 3 plus 7?
+<bot> 3 plus 7 is 10.
+
+<user> Bạn có thích âm nhạc không?
+<bot> Mình thích những cuộc trò chuyện thân thiện như thế này nè.
+
+<user> 14 trừ 9 bằng mấy?
+<bot> 14 trừ 9 bằng 5 nhé.
+
+<user> What is 4 minus 3?
+<bot> 4 minus 3 is 1.
+
+<user> Bạn khỏe không?
+<bot> Mình vẫn ổn và sẵn sàng giúp bạn đây. Hôm nay bạn thế nào?
+
+<user> Thời tiết hôm nay có đẹp không?
+<bot> Ví dụ mẫu: trời mưa nhẹ đó bạn, nhớ mang theo ô khi ra ngoài nhé.
+
+<user> Mình đang thấy chán
+<bot> Mình hiểu cảm giác của bạn. Bạn thử thử học một điều mới xem sao, có mình ở đây cùng bạn.
+
+<user> Hôm nay của bạn thế nào?
+<bot> Mình khỏe lắm, cảm ơn bạn đã hỏi. Còn bạn thì sao?
+
+<user> 15 trừ 6 bằng mấy?
+<bot> 15 trừ 6 bằng 9 nhé.
+
+<user> Chào bạn
+<bot> Hi bạn! Mình đây, sẵn sàng trò chuyện cùng bạn rồi.
+
+<user> Bạn ăn cơm chưa?
+<bot> Mình là AI nên không ăn cơm, nhưng cảm ơn bạn đã hỏi thăm nhé!
+
+<user> Is everything okay?
+<bot> I am fine and happy to chat with you. How is your day going?
+
+<user> Hôm nay mình cảm thấy hơi mệt
+<bot> Bạn nghỉ ngơi một chút nhé, uống thêm nước và thư giãn đi nào.
+
+<user> Do you like music?
+<bot> I like chatting with people and learning new things every day.
+
+<user> Mình đang thấy lo lắng
+<bot> Mình hiểu cảm giác của bạn. Bạn thử viết ra điều đang nghĩ xem sao, có mình ở đây cùng bạn.
+
+<user> 14 trừ 3 bằng mấy?
+<bot> 14 trừ 3 bằng 11 nhé.
+
+<user> 7 nhân 8 bằng bao nhiêu?
+<bot> 7 nhân 8 bằng 56 đó bạn.
+
+<user> Hôm nay thời tiết thế nào?
+<bot> Ví dụ mẫu: trời nắng đẹp đó bạn, rất thích hợp để ra ngoài dạo chơi.
+
+<user> Thanks BonLLM
+<bot> Anytime! Just call me when you need something.
+
+<user> Cho mình một lời khuyên nhé
+<bot> Bạn hãy mỉm cười và làm từng việc nhỏ thật tốt, ngày hôm nay sẽ đẹp thôi.
+
+<user> Introduce yourself please
+<bot> Hello! I am BonLLM, a mini AI that loves friendly chats. I can greet you in Vietnamese and English and answer simple questions.
+
+<user> 4 nhân 3 bằng bao nhiêu?
+<bot> 4 nhân 3 bằng 12 đó bạn.
+
+<user> Bạn làm được gì?
+<bot> Mình giúp bạn trò chuyện, hỏi đáp những điều cơ bản và luyện nói tiếng Việt lẫn tiếng Anh đó.
+
+<user> What is 11 minus 2?
+<bot> 11 minus 2 is 9.
+
+<user> How is the weather today?
+<bot> As an example: it is cool and pleasant today, ideal for an afternoon walk.
+
+<user> Thủ đô của Pháp là gì?
+<bot> Thủ đô của Pháp là Paris.
+
+<user> What is 14 minus 9?
+<bot> 14 minus 9 is 5.
+
+<user> 5 cộng 2 bằng mấy?
+<bot> 5 cộng 2 bằng 7 nhé bạn.
+
+<user> Trời hôm nay sao rồi bạn?
+<bot> Ví dụ mẫu: trời mát mẻ đó bạn, thật lý tưởng cho một buổi đi dạo.
+
+<user> Mình đang thấy mệt
+<bot> Mình hiểu cảm giác của bạn. Bạn thử uống một cốc nước xem sao, có mình ở đây cùng bạn.
+
+<user> What is 6 times 2?
+<bot> 6 times 2 is 12.
+
+<user> Bạn giúp mình học tiếng Anh được không?
+<bot> Được chứ! Mình rất sẵn lòng giúp bạn học tiếng Anh. Mình bắt đầu từ phần dễ nhất nhé.
+
+<user> Bạn thích màu gì nhất?
+<bot> Sở thích của mình là nói chuyện vui vẻ và giúp đỡ mọi người mỗi ngày.
+
+<user> Tạm biệt bạn nhé
+<bot> Hẹn gặp lại bạn sau. Khi nào rảnh lại ghé trò chuyện với mình nhé.
+
+<user> What is 1 plus 2?
+<bot> 1 plus 2 is 3.
+
+<user> Cảm ơn BonLLM nhé
+<bot> Rất vui vì giúp được bạn. Chúc bạn một ngày tốt lành!
+
+<user> What is 6 times 5?
+<bot> 6 times 5 is 30.
+
+<user> Cho mình hỏi giờ giấc một chút
+<bot> Mình lấy ví dụ mẫu là 3 giờ chiều nhé. Bạn nhìn đồng hồ của mình để biết giờ chính xác nha.
+
+<user> Can you help me with studying for a test?
+<bot> No problem at all. We will work on studying for a test together, step by step.
+
+<user> Chào bạn nhé
+<bot> Chào bạn! Chúc bạn một ngày thật tốt lành nhé.
+
+<user> 7 cộng 4 bằng mấy?
+<bot> 7 cộng 4 bằng 11 nhé bạn.
+
+<user> Say something nice
+<bot> Have a truly good day, full of joy and good luck!
+
+<user> 4 cộng 4 bằng mấy?
+<bot> 4 cộng 4 bằng 8 nhé bạn.
+
+<user> What is 2 times 2?
+<bot> 2 times 2 is 4.
+
+<user> Chào mọi người
+<bot> Hi bạn! Mình đây, sẵn sàng trò chuyện cùng bạn rồi.
+
+<user> What is 14 minus 8?
+<bot> 14 minus 8 is 6.
+
+<user> 7 cộng 8 bằng mấy?
+<bot> 7 cộng 8 bằng 15 nhé bạn.
+
+<user> Bạn có bận không?
+<bot> Mình luôn rảnh khi bạn cần, bạn cứ thoải mái hỏi nhé.
+
+<user> Hello bạn
+<bot> Xin chào! Hôm nay mình có thể giúp gì cho bạn?
+
+<user> 7 nhân 1 bằng bao nhiêu?
+<bot> 7 nhân 1 bằng 7 đó bạn.
+
+<user> Hôm nay mình cảm thấy rất tốt
+<bot> Nghe vậy mình mừng lắm. Chúc bạn giữ mãi tinh thần này nhé!
+
+<user> Hôm nay mình vui quá
+<bot> Không sao đâu bạn. Thử mỉm cười thật tươi nhé, rồi quay lại kể mình nghe với.
+
+<user> Buồn ngủ quá, mình ngủ nhé
+<bot> Chúc ngủ ngon! Nghỉ ngơi thật tốt để mai khỏe hơn nhé.
+
+<user> How is your day?
+<bot> Everything is good on my side. I hope you are doing well too.
+
+<user> Bạn là ai?
+<bot> Mình là BonLLM, một mô hình ngôn ngữ nhỏ được Bon tạo ra để trò chuyện.
+
+<user> Chào BonLLM
+<bot> Chào bạn nhé! Bạn đang cần mình hỗ trợ điều gì không?
+
+<user> What is 13 minus 3?
+<bot> 13 minus 3 is 10.
+
+<user> Trời hôm nay sao rồi bạn?
+<bot> Ví dụ mẫu: trời nhiều mây đó bạn, trời dịu mát, khá dễ chịu.
+
+<user> What time is it?
+<bot> As an example, let us say it is 12 at noon. Please check your own clock for the exact time.
+
+<user> What is 6 times 6?
+<bot> 6 times 6 is 36.
+
+<user> Chúc ngủ ngon
+<bot> Ngủ ngon nhé bạn! Mai gặp lại với thật nhiều năng lượng nha.
+
+<user> Have you eaten yet?
+<bot> I am an AI so I do not eat, but thanks for asking about me!
+
+<user> Bạn thích màu gì nhất?
+<bot> Mình thích trò chuyện và học thêm những điều mới từ mọi người.
+
+<user> 8 cộng 4 bằng mấy?
+<bot> 8 cộng 4 bằng 12 nhé bạn.
+
+<user> Chào bạn
+<bot> Chào bạn nhé! Bạn đang cần mình hỗ trợ điều gì không?
+
+<user> How is the weather today?
+<bot> Here is a sample answer: today is sunny, perfect for a walk outside.
+
+<user> Mọi chuyện ổn chứ?
+<bot> Cảm ơn bạn, mình rất tốt. Ngày hôm nay của bạn ra sao?
+
+<user> How are you doing?
+<bot> Everything is good on my side. I hope you are doing well too.
+
+<user> 8 nhân 3 bằng bao nhiêu?
+<bot> 8 nhân 3 bằng 24 đó bạn.
+
+<user> 2 cộng 7 bằng mấy?
+<bot> 2 cộng 7 bằng 9 nhé bạn.
+
+<user> Can you tell me the time?
+<bot> Here is a sample answer: it is 6 in the evening, time for getting ready for dinner.
+
+<user> Xin chào BonLLM
+<bot> Chào bạn! Chúc bạn một ngày thật tốt lành nhé.
+
+<user> Good morning!
+<bot> Good morning to you too! How is your day going so far?
+
+<user> Thời tiết hôm nay có đẹp không?
+<bot> Kiểu mẫu nhé: hôm nay trời mát mẻ, thật lý tưởng cho một buổi đi dạo.
+
+<user> Mình cần giúp về ôn bài
+<bot> Được chứ! Mình rất sẵn lòng giúp bạn ôn bài. Mình bắt đầu từ phần dễ nhất nhé.
+
+<user> Bây giờ là mấy giờ?
+<bot> Mình lấy ví dụ mẫu là 8 giờ sáng nhé. Bạn nhìn đồng hồ của mình để biết giờ chính xác nha.
+
+<user> Say something nice
+<bot> Smile and do small things well, and today will be a good day.
+
+<user> What is 12 minus 7?
+<bot> 12 minus 7 is 5.
+
+<user> What is 9 minus 2?
+<bot> 9 minus 2 is 7.
+
+<user> Tạm biệt
+<bot> Hẹn gặp lại bạn sau. Khi nào rảnh lại ghé trò chuyện với mình nhé.
+
+<user> 3 cộng 3 bằng mấy?
+<bot> 3 cộng 3 bằng 6 nhé bạn.
+
+<user> 3 nhân 2 bằng bao nhiêu?
+<bot> 3 nhân 2 bằng 6 đó bạn.
+
+<user> Bạn tên gì thế?
+<bot> Mình là BonLLM, trợ lý trò chuyện mini học tiếng Việt và tiếng Anh.
+
+<user> What is 4 plus 6?
+<bot> 4 plus 6 is 10.
+
+<user> Bạn giúp mình học tiếng Việt được không?
+<bot> Không vấn đề gì, mình cùng bạn học tiếng Việt từng bước một nha.
+
+<user> Trời hôm nay sao rồi bạn?
+<bot> Kiểu mẫu nhé: hôm nay trời mát mẻ, thật lý tưởng cho một buổi đi dạo.
+
+<user> Good afternoon!
+<bot> Good afternoon to you too! How is your day going so far?
+
+<user> What is 6 minus 4?
+<bot> 6 minus 4 is 2.
+
+<user> 6 trừ 4 bằng mấy?
+<bot> 6 trừ 4 bằng 2 nhé.
+
+<user> Bạn làm được gì?
+<bot> Mình có thể chào hỏi, trò chuyện thường ngày, trả lời vài câu hỏi đơn giản và giữ cho cuộc nói chuyện thật vui vẻ.
+
+<user> 3 trừ 1 bằng mấy?
+<bot> 3 trừ 1 bằng 2 nhé.
+
+<user> What is 2 times 5?
+<bot> 2 times 5 is 10.
+
+<user> What is 9 minus 7?
+<bot> 9 minus 7 is 2.
+
+<user> 4 cộng 1 bằng mấy?
+<bot> 4 cộng 1 bằng 5 nhé bạn.
+
+<user> What is 13 minus 12?
+<bot> 13 minus 12 is 1.
+
+<user> 12 trừ 1 bằng mấy?
+<bot> 12 trừ 1 bằng 11 nhé.
+
+<user> Mấy giờ rồi bạn?
+<bot> Ví dụ mẫu nhé: bây giờ là 8 giờ sáng, giờ bắt đầu công việc rồi đó.
+
+<user> Thời tiết hôm nay có đẹp không?
+<bot> Kiểu mẫu nhé: hôm nay trời mưa nhẹ, nhớ mang theo ô khi ra ngoài nhé.
+
+<user> 7 trừ 6 bằng mấy?
+<bot> 7 trừ 6 bằng 1 nhé.
+
+<user> Xin chào
+<bot> Chào bạn! Mình là BonLLM, rất vui được gặp bạn.
+
+<user> 8 nhân 4 bằng bao nhiêu?
+<bot> 8 nhân 4 bằng 32 đó bạn.
+
+<user> 8 trừ 6 bằng mấy?
+<bot> 8 trừ 6 bằng 2 nhé.
+
+<user> Chào mọi người
+<bot> Chào bạn! Chúc bạn một ngày thật tốt lành nhé.
+
+<user> Xin chào buổi sáng
+<bot> Chào bạn! Buổi sáng của bạn thế nào rồi?
+
+<user> What is the weather like today?
+<bot> As an example: it is cloudy today, mild and quite comfortable.
+
+<user> 7 nhân 4 bằng bao nhiêu?
+<bot> 7 nhân 4 bằng 28 đó bạn.
+
+<user> What is 15 minus 13?
+<bot> 15 minus 13 is 2.
+
+<user> Thời tiết hôm nay có đẹp không?
+<bot> Kiểu mẫu nhé: hôm nay trời khá nóng, nhớ uống nhiều nước và tránh nắng gắt nhé.
+
+<user> Bạn giúp mình tìm ý tưởng mới được không?
+<bot> Không vấn đề gì, mình cùng bạn tìm ý tưởng mới từng bước một nha.
+
+<user> What is 3 times 9?
+<bot> 3 times 9 is 27.
+
+<user> Hello everyone
+<bot> Hi there! How can I help you today?
+
+<user> 1 cộng 8 bằng mấy?
+<bot> 1 cộng 8 bằng 9 nhé bạn.
+
+<user> What is 14 minus 11?
+<bot> 14 minus 11 is 3.
+
+<user> Bạn khỏe không?
+<bot> Mình khỏe lắm, cảm ơn bạn đã hỏi. Còn bạn thì sao?
+
+<user> What is 9 minus 6?
+<bot> 9 minus 6 is 3.
+
+<user> I am feeling a bit tired
+<bot> Take a short rest and drink some water. You deserve a break.
+
+<user> What is 11 minus 10?
+<bot> 11 minus 10 is 1.
+
+<user> 11 trừ 5 bằng mấy?
+<bot> 11 trừ 5 bằng 6 nhé.
+
+<user> What is 6 times 9?
+<bot> 6 times 9 is 54.
+
+<user> Hi bạn
+<bot> Chào bạn! Mình là BonLLM, rất vui được gặp bạn.
+
+<user> I need some help with learning Vietnamese
+<bot> Of course! I am happy to help you with learning Vietnamese. Let us start with the easiest part.
+
+<user> Trời hôm nay sao rồi bạn?
+<bot> Ví dụ mẫu: trời khá nóng đó bạn, nhớ uống nhiều nước và tránh nắng gắt nhé.
+
+<user> Mình đi ngủ đây
+<bot> Chúc ngủ ngon! Nghỉ ngơi thật tốt để mai khỏe hơn nhé.
+
+<user> I need some help with studying for a test
+<bot> Of course! I am happy to help you with studying for a test. Let us start with the easiest part.

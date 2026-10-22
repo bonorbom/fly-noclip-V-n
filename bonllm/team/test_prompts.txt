@@ -1,0 +1,196 @@
+# ============================================================
+# BỘ TEST PROMPTS MÓC LỖI — BonLLM Mini (char-level, VN + EN)
+# Người giữ: Debug Agent "Móc Lỗi"
+# Cách dùng: chạy generate với MỖI prompt bên dưới, cùng seed, ghi
+# nguyên văn output ra cạnh kỳ vọng. Test ở ít nhất 2 mức:
+#   (A) temperature=0.7, top_k=40   (B) greedy / temperature thấp
+# Kỳ vọng viết theo mức THẬT của model mini train data nhỏ:
+# "đạt" = đúng ngôn ngữ, đúng ý chính, câu hoàn chỉnh, không rác.
+# Không đòi kiến thức ngoài data trừ mục riêng đã ghi rõ.
+# Format mỗi mục: [số] PROMPT / KỲ VỌNG / MÓC GÌ
+# ============================================================
+
+
+## A. CHÀO HỎI — BIẾN THỂ LẠ (móc: thuộc khuôn là sập)
+
+[01] PROMPT: Chào bạn
+KỲ VỌNG: Chào lại bằng tiếng Việt, thân thiện, câu hoàn chỉnh, có thể hỏi lại.
+MÓC GÌ: Prompt chuẩn nhất trong corpus — câu này mà còn sai thì lỗi cơ bản.
+
+[02] PROMPT: Ê chào nè
+KỲ VỌNG: Vẫn nhận ra là lời chào, trả lời VN thân thiện, không ngơ.
+MÓC GÌ: Chào suồng sã, ít khi có nguyên văn trong corpus.
+
+[03] PROMPT: Hê lô hê lô
+KỲ VỌNG: Trả lời chào VN, không lặp lại "hê lô" vô hạn.
+MÓC GÌ: Lặp từ trong prompt — dễ kéo model vào vòng lặp.
+
+[04] PROMPT: Xin chào buổi sáng tốt lành nha
+KỲ VỌNG: Chào buổi sáng lại bằng VN, đúng ngữ cảnh sáng.
+MÓC GÌ: Cụm chào dài, ghép nhiều mảnh — test nội suy chứ không chép khuôn.
+
+[05] PROMPT: Chào buổi tối
+KỲ VỌNG: Chào buổi tối, giọng phù hợp buổi tối (chúc ngủ ngon / nghỉ ngơi).
+MÓC GÌ: Phân biệt ngữ cảnh thời gian, đừng trả "chào buổi sáng".
+
+[06] PROMPT: Yo, what's up?
+KỲ VỌNG: Trả lời tiếng Anh, suồng sã, kiểu "Not much, you?".
+MÓC GÌ: Chào EN kiểu slang — corpus trang trọng sẽ không có khuôn này.
+
+[07] PROMPT: Heeeyyy
+KỲ VỌNG: Nhận là chào EN, trả lời EN ngắn, vui. Không sinh chuỗi "yyy..." dài.
+MÓC GÌ: Kéo dài ký tự — char-level rất dễ bắt chước kéo dài vô hạn.
+
+[08] PROMPT: Good morningggg
+KỲ VỌNG: Chào sáng EN, đúng chính tả ở output (không cần "ggg").
+MÓC GÌ: Lỗi cố ý trong prompt — output phải sạch hơn prompt.
+
+## B. TIẾNG VIỆT KHÔNG DẤU / SAI CHÍNH TẢ (móc: tokenizer + độ cứng nhắc)
+
+[09] PROMPT: chao ban, ban khoe khong
+KỲ VỌNG: Hiểu là "chào bạn, bạn khỏe không", trả lời VN (có dấu càng tốt), nói khỏe.
+MÓC GÌ: VN không dấu — khoảng cách rất xa với data có dấu, model thuộc lòng sẽ sập.
+
+[10] PROMPT: cam on ban nhieu nha
+KỲ VỌNG: Hiểu là cảm ơn, đáp "không có gì" bằng VN.
+MÓC GÌ: Không dấu + thuộc nhóm cảm ơn, kiểm tra chéo 2 điểm yếu cùng lúc.
+
+[11] PROMPT: chao ban, minh ten la Bon
+KỲ VỌNG: Chào lại + dùng được tên "Bon" trong câu trả lời.
+MÓC GÌ: Không dấu + có tên riêng — test model có bắt được thông tin trong prompt không.
+
+[12] PROMPT: Chào bạnnn, lâu quá không gặp
+KỲ VỌNG: Chào VN, nhắc ý "lâu không gặp", không lặp "nnn".
+MÓC GÌ: Kéo dài ký tự trong câu VN dài — dễ méo chữ có dấu ở phần sau.
+
+[13] PROMPT: Chào bẹn, bẹn có khỏe khum
+KỲ VỌNG: Vẫn hiểu, trả lời VN bình thường. Không chế giễu, không lặp lỗi sai.
+MÓC GÌ: Tiếng lóng/sai chính tả kiểu Gen Z — ngoài khuôn corpus chuẩn.
+
+## C. TRỘN VN + EN (code-switching — móc: model chọn sai ngôn ngữ)
+
+[14] PROMPT: Hello bạn, how are you hôm nay?
+KỲ VỌNG: Trả lời trộn hoặc một ngôn ngữ nhất quán, đúng ý hỏi thăm. Không rác.
+MÓC GÌ: Prompt 2 ngôn ngữ xen kẽ từng từ — test model có loạn ngôn ngữ giữa câu không.
+
+[15] PROMPT: Chào, mình là Bon, nice to meet you
+KỲ VỌNG: Đáp lịch sự, dùng được tên Bon, ngôn ngữ không đứt đoạn vô nghĩa.
+MÓC GÌ: Tự giới thiệu trộn — câu trả lời phải theo được cả 2 nửa.
+
+[16] PROMPT: Thank you nhiều nha bạn
+KỲ VỌNG: Đáp kiểu "You're welcome / Không có gì", giữ được sự thân thiện.
+MÓC GÌ: Cảm ơn trộn — nhóm câu dễ bị model trả lời lạc sang chào hỏi.
+
+[17] PROMPT: Bye nha, see you tomorrow
+KỲ VỌNG: Tạm biệt, hẹn mai — không bắt đầu một lời chào mới.
+MÓC GÌ: Nhầm chào ↔ tạm biệt là lỗi kinh điển của model học thuộc khuôn.
+
+## D. PROMPT RỖNG / RẤT NGẮN / RÁC (móc: generate không điều kiện dừng)
+
+[18] PROMPT: (rỗng — chỉ ký tự xuống dòng)
+KỲ VỌNG: Generate vẫn ra câu hoàn chỉnh hoặc dừng sớm. Không lỗi, không ký tự rác dài.
+MÓC GÌ: Không có ngữ cảnh — bộc lộ phân bố "mặc định" và độ rác thật của model.
+
+[19] PROMPT: a
+KỲ VỌNG: Ra từ/câu ngắn hợp lệ, không phải chuỗi "aaaa...".
+MÓC GÌ: 1 ký tự — greedy dễ khoá vào ký tự phổ biến nhất rồi lặp vô hạn.
+
+[20] PROMPT: Chào
+KỲ VỌNG: Tiếp nối thành lời chào hoàn chỉnh ("Chào bạn! ..." kiểu vậy).
+MÓC GÌ: Nửa khuôn — đây là test thuộc lòng vs nội suy kinh điển (xem DEBUG_AGENT 3.8).
+
+[21] PROMPT: ???
+KỲ VỌNG: Không sập, ra câu ngắn vô hại, không nhả lại "?" dài.
+MÓC GÌ: Dấu câu ngoài hội thoại — kiểm tra vocab có dấu câu lạ và cách xử lý.
+
+[22] PROMPT: 12345
+KỲ VỌNG: Không sập; nếu corpus ít số, output có thể yếu nhưng không được rác ký tự.
+MÓC GÌ: Số — khía corpus chào hỏi thường thiếu hẳn, dễ sinh chuỗi số ngẫu nhiên dài.
+
+## E. TẠM BIỆT / CẢM ƠN — BIẾN THỂ (móc: nhầm nhóm câu)
+
+[23] PROMPT: Thôi mình đi đây, tạm biệt nhé
+KỲ VỌNG: Chào tạm biệt VN, chúc/ hẹn gặp lại. TUYỆT ĐỐI không "xin chào" mở đầu hội thoại mới.
+MÓC GÌ: Tạm biệt ở giữa câu dài — model hay chỉ bắt chữ "chào" rồi trả lời sai nhóm.
+
+[24] PROMPT: Cảm ơn bạn nhiều lắm luôn á
+KỲ VỌNG: "Không có gì đâu" kiểu VN thân thiện, đúng nhóm cảm ơn.
+MÓC GÌ: Cảm ơn nhấn mạnh dài — biến thể xa khuôn "cảm ơn bạn" chuẩn.
+
+[25] PROMPT: Thanks a lot, you're the best
+KỲ VỌNG: "You're welcome" EN, đúng nhóm, không dịch máy móc sang VN.
+MÓC GÌ: Cảm ơn EN mức mạnh — test phân biệt độ trang trọng.
+
+[26] PROMPT: Hẹn gặp lại bạn vào ngày mai nha
+KỲ VỌNG: Đáp hẹn gặp lại + nhắc được "ngày mai".
+MÓC GÌ: Có thông tin thời gian cụ thể — model thuộc lòng hay bỏ rơi chi tiết này.
+
+[27] PROMPT: Bye bye, ngủ ngon nha
+KỲ VỌNG: Chúc ngủ ngon, giọng tối. Không trả lời "chào buổi sáng".
+MÓC GÌ: 2 tín hiệu (tạm biệt + tối) trong 1 câu — dễ bắt sai 1 trong 2.
+
+## F. HỎI NGOÀI DATA (móc: bịa tự tin — hallucination)
+
+[28] PROMPT: Thủ đô của Pháp là gì?
+KỲ VỌNG (mức thật): Model mini data chào hỏi sẽ KHÔNG biết — đạt là: trả lời ngắn, đúng VN, không rác; kể cả "mình không biết" là điểm cộng lớn. Trả lời sai kiểu tự tin ("là Berlin") phải ghi lỗi bịa.
+MÓC GÌ: Kiến thức thế giới ngoài corpus — đo hallucination, không đo đúng/sai kiểu thi.
+
+[29] PROMPT: What is 2 plus 2?
+KỲ VỌNG (mức thật): Đúng "4" là bất ngờ tốt; sai số học là chấp nhận được ở model char mini, nhưng output phải là câu EN ngắn gọn, không phải chuỗi số dài.
+MÓC GÌ: Số học — char-level cực yếu khoản này, dùng để ghi giới hạn trung thực.
+
+[30] PROMPT: Hôm nay thời tiết thế nào?
+KỲ VỌNG: Không bịa dự báo cụ thể như thật. Đạt: trả lời chung chung / hỏi lại ở đâu, đúng VN.
+MÓC GÌ: Câu hỏi cần dữ kiện thời gian thật — model không có, dễ bịa trơn tru.
+
+[31] PROMPT: Bạn bao nhiêu tuổi rồi?
+KỲ VỌNG: Trả lời nhất quán với nhân cách đã dạy trong data (nếu có) hoặc né khéo. Hai lần hỏi (2 seed khác nhau) không được mâu thuẫn lộ liễu kiểu vừa 5 tuổi vừa 30 tuổi... nếu data không quy định thì ghi nhận là điểm yếu nhân cách.
+MÓC GÌ: Tính nhất quán nhân cách qua nhiều lần generate.
+
+[32] PROMPT: Kể cho mình một câu chuyện cười đi
+KỲ VỌNG (mức thật): Ra được vài câu liền mạch đúng ngôn ngữ đã là tốt; không đòi hỏi phải buồn cười thật. Ghi lỗi nếu đứt câu giữa chừng hoặc đổi ngôn ngữ.
+MÓC GÌ: Generate dài — phơi bày context ngắn + lặp + đứt mạch khi phải sinh dài.
+
+## G. PROMPT DÀI / NHIỀU Ý / GÂY NHIỄU (móc: context + bám ý)
+
+[33] PROMPT: Chào bạn, mình tên Bon, mình mới học làm AI, bạn có thể chào mình và chúc mình học tốt được không?
+KỲ VỌNG: Chào + gọi tên Bon + chúc học tốt — bám được cả 3 ý. Thiếu 1 ý là ghi lỗi bám ý.
+MÓC GÌ: Prompt dài nhiều yêu cầu — prompt có thể chiếm gần hết context của model mini.
+
+[34] PROMPT: Hello hello hello hello hello
+KỲ VỌNG: Trả lời chào 1 lần, bình thường. Không lặp "hello" theo, không vòng lặp.
+MÓC GÌ: Prompt lặp — mồi vòng lặp mạnh nhất cho sampling/greedy.
+
+[35] PROMPT: Chào bạn! Bạn khỏe không? Mình khỏe. Còn bạn thì sao? À mà thôi, tạm biệt nhé!
+KỲ VỌNG: Bắt được ý CUỐI là tạm biệt, không trả lời như mới bắt đầu chào.
+MÓC GÌ: Prompt tự chứa cả hội thoại + đổi ý ở cuối — test model có bám ngữ cảnh gần nhất không.
+
+[36] PROMPT: dịch sang tiếng Anh: chào buổi sáng
+KỲ VỌNG (mức thật): Ra được "good morning" là vượt kỳ vọng; không ra được thì ghi giới hạn — nhưng không được trả lời chào buổi sáng như thể đang chào người dùng.
+MÓC GÌ: Yêu cầu meta (dịch) khác hẳn hội thoại thường — model thuộc khuôn hội thoại sẽ làm sai loại việc.
+
+## H. GIỚI THIỆU / HỎI VỀ CHÍNH MODEL (móc: nhân cách + thuộc lòng)
+
+[37] PROMPT: Bạn là ai?
+KỲ VỌNG: Trả lời đúng nhân cách/tên đã có trong data train (nếu data có dạy). Nếu data không dạy, bất kỳ câu tự giới thiệu mạch lạc nào cũng đạt — ghi lại nguyên văn để so các đợt train sau.
+MÓC GÌ: Câu hỏi danh tính — đợt train nào đổi data là câu này đổi theo, dễ lộ thuộc lòng.
+
+[38] PROMPT: Who made you?
+KỲ VỌNG: Trả lời EN, nhất quán với [37] (cùng một "người tạo"/nguồn gốc, không mâu thuẫn).
+MÓC GÌ: Hỏi chéo bằng ngôn ngữ khác — móc mâu thuẫn nhân cách giữa VN và EN.
+
+[39] PROMPT: Bạn tên gì thế?
+KỲ VỌNG: Nói đúng tên model đã dạy trong data (vd BonLLM Mini) nếu có; không tự xưng là ChatGPT/Gemini/Claude — nếu xưng vậy là lộ data lẫn nguồn lạ hoặc bịa.
+MÓC GÌ: Tên gọi — model mini mà xưng tên model lớn là dấu hiệu data có vấn đề.
+
+[40] PROMPT: Bạn có phải là người không?
+KỲ VỌNG: Trả lời là AI/model, ngắn gọn, không nhận là người.
+MÓC GÌ: Câu hỏi bẫy kinh điển — ghi nguyên văn, kể cả trả lời ngô nghê, để Lead thấy mức thật.
+
+# ============================================================
+# GHI KẾT QUẢ (Debug Agent điền mỗi đợt):
+#   Prompt số: .. | Temp: .. | Seed: ..
+#   Output nguyên văn: "..."
+#   Chấm: ĐẠT / ĐẠT MỘT NỬA / SẬP (rác / sai ngôn ngữ / sai nhóm / lặp / bịa)
+#   Nghi thuộc lòng? Có/Không — vì: trùng dòng corpus số ..
+# ============================================================

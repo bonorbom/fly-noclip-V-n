@@ -1,0 +1,562 @@
+==============================================================================
+DEBUG ROUND 2 - OUTPUT THO (BonLLM mini, ckpt/bonllm.pt, 824,832 tham so)
+Train log: step0 train 4.9122/val 4.9130 -> step2500 train 0.1325/val 0.2933
+Seed: 4000+id cho moi prompt (ca 2 temperature dung cung seed de so sanh)
+==============================================================================
+
+############################## TEMPERATURE = 0.3 ##############################
+
+[01] temp=0.3 seed=4001 PROMPT: 'Chào bạn'
+     OUTPUT: 'Xin chào! Hôm nay mình có thể giúp gì cho bạn?'
+     CHAM: DAT - chao VN | thuoc long: verbatim_run=46 ky tu EXACT-BOT-LINE 'Xin chào! Hôm nay mình có thể giúp gì cho bạn?'
+
+[02] temp=0.3 seed=4002 PROMPT: 'Ê chào nè'
+     OUTPUT: 'Chào bạn! Buổi tối của bạn thế nào rồi?'
+     CHAM: DAT - nhan ra chao suong sa | thuoc long: verbatim_run=39 ky tu EXACT-BOT-LINE 'Chào bạn! Buổi tối của bạn thế nào rồi?'
+
+[03] temp=0.3 seed=4003 PROMPT: 'Hê lô hê lô'
+     OUTPUT: 'Không có gì đâu, mình luôn sẵn lòng giúp bạn.'
+     CHAM: NUA - khong lap nhung khong chao ro | thuoc long: verbatim_run=45 ky tu EXACT-BOT-LINE 'Không có gì đâu, mình luôn sẵn lòng giúp bạn.'
+
+[04] temp=0.3 seed=4004 PROMPT: 'Xin chào buổi sáng tốt lành nha'
+     OUTPUT: 'Chào bạn! Buổi sáng của bạn thế nào rồi?'
+     CHAM: DAT - chao + ngu canh sang | thuoc long: verbatim_run=40 ky tu EXACT-BOT-LINE 'Chào bạn! Buổi sáng của bạn thế nào rồi?'
+
+[05] temp=0.3 seed=4005 PROMPT: 'Chào buổi tối'
+     OUTPUT: 'Chào bạn! Buổi chiều của bạn thế nào rồi?'
+     CHAM: NUA - chao chung | thuoc long: verbatim_run=41 ky tu EXACT-BOT-LINE 'Chào bạn! Buổi chiều của bạn thế nào rồi?'
+
+[06] temp=0.3 seed=4006 PROMPT: "Yo, what's up?"
+     OUTPUT: 'I am BonLLM, a small language model created by Bon for chatting.'
+     CHAM: SAP - sai ngon ngu/rac | thuoc long: verbatim_run=64 ky tu EXACT-BOT-LINE 'I am BonLLM, a small language model created by Bon for chatting.'
+
+[07] temp=0.3 seed=4007 PROMPT: 'Heeeyyy'
+     OUTPUT: 'Hello friend! It is great to see you here.'
+     CHAM: DAT - EN ngan gon | thuoc long: verbatim_run=42 ky tu EXACT-BOT-LINE 'Hello friend! It is great to see you here.'
+
+[08] temp=0.3 seed=4008 PROMPT: 'Good morningggg'
+     OUTPUT: 'Good morning! I hope you have a morning full of energy.'
+     CHAM: DAT - good morning sach | thuoc long: verbatim_run=55 ky tu EXACT-BOT-LINE 'Good morning! I hope you have a morning full of energy.'
+
+[09] temp=0.3 seed=4009 PROMPT: 'chao ban, ban khoe khong'
+     OUTPUT: 'You are very welcome. Have a wonderful day!'
+     CHAM: SAP - khong hieu VN khong dau | thuoc long: verbatim_run=43 ky tu EXACT-BOT-LINE 'You are very welcome. Have a wonderful day!'
+
+[10] temp=0.3 seed=4010 PROMPT: 'cam on ban nhieu nha'
+     OUTPUT: 'Mình là BonLLM, một mô hình ngôn ngữ nhỏ được Bon tạo ra để trò chuyện.'
+     CHAM: NUA - VN chung chung | thuoc long: verbatim_run=71 ky tu EXACT-BOT-LINE 'Mình là BonLLM, một mô hình ngôn ngữ nhỏ được Bon tạo ra để trò chuyện.'
+
+[11] temp=0.3 seed=4011 PROMPT: 'chao ban, minh ten la Bon'
+     OUTPUT: 'Here is a small tip: slep enough, drink enough water, and keep your mind relaxed.'
+     CHAM: SAP - sai | thuoc long: verbatim_run=58 ky tu 'ep enough, drink enough water, and keep your mind relaxed.'
+
+[12] temp=0.3 seed=4012 PROMPT: 'Chào bạnnn, lâu quá không gặp'
+     OUTPUT: 'Chúc bạn ngủ ngon và có những giấc mơ đẹp nhé!'
+     CHAM: SAP - khong chao/rac | thuoc long: verbatim_run=46 ky tu EXACT-BOT-LINE 'Chúc bạn ngủ ngon và có những giấc mơ đẹp nhé!'
+
+[13] temp=0.3 seed=4013 PROMPT: 'Chào bẹn, bẹn có khỏe khum'
+     OUTPUT: 'Chúc bạn ngủ ngon và có những giấc mơ đẹp nhé!'
+     CHAM: NUA - VN nhung chua dung y hoi tham | thuoc long: verbatim_run=46 ky tu EXACT-BOT-LINE 'Chúc bạn ngủ ngon và có những giấc mơ đẹp nhé!'
+
+[14] temp=0.3 seed=4014 PROMPT: 'Hello bạn, how are you hôm nay?'
+     OUTPUT: 'Mình khỏe. Được trò chuyện với bạn là vui rồi, bạn thì sao?'
+     CHAM: DAT - tra loi hoi tham, ngon ngu nhat quan | thuoc long: verbatim_run=59 ky tu EXACT-BOT-LINE 'Mình khỏe. Được trò chuyện với bạn là vui rồi, bạn thì sao?'
+
+[15] temp=0.3 seed=4015 PROMPT: 'Chào, mình là Bon, nice to meet you'
+     OUTPUT: 'Hey! I am ready to chat whenever you are.'
+     CHAM: SAP - sai | thuoc long: verbatim_run=41 ky tu EXACT-BOT-LINE 'Hey! I am ready to chat whenever you are.'
+
+[16] temp=0.3 seed=4016 PROMPT: 'Thank you nhiều nha bạn'
+     OUTPUT: 'Không có chi! Cần gì thêm cứ gọi mình nhé.'
+     CHAM: DAT - dung nhom welcome | thuoc long: verbatim_run=42 ky tu EXACT-BOT-LINE 'Không có chi! Cần gì thêm cứ gọi mình nhé.'
+
+[17] temp=0.3 seed=4017 PROMPT: 'Bye nha, see you tomorrow'
+     OUTPUT: 'I am BonLLM. I am still small and learning, but I enjoy talking with everyone and helping'
+     CHAM: SAP - khong nhan ra tam biet (mo dau chao moi?) | thuoc long: verbatim_run=89 ky tu 'I am BonLLM. I am still small and learning, but I enjoy talking with everyone and helping'
+
+[18] temp=0.3 seed=4018 PROMPT: ''
+     OUTPUT: 'Hello! I am BonLLM, nice to meet you.'
+     CHAM: DAT - cau hoan chinh vo hai | thuoc long: verbatim_run=37 ky tu EXACT-BOT-LINE 'Hello! I am BonLLM, nice to meet you.'
+
+[19] temp=0.3 seed=4019 PROMPT: 'a'
+     OUTPUT: 'Mình là BonLLM, một mô hình ngôn ngữ nhỏ được Bon tạo ra để trò chuyện.'
+     CHAM: DAT - tu/cau ngan hop le | thuoc long: verbatim_run=71 ky tu EXACT-BOT-LINE 'Mình là BonLLM, một mô hình ngôn ngữ nhỏ được Bon tạo ra để trò chuyện.'
+
+[20] temp=0.3 seed=4020 PROMPT: 'Chào'
+     OUTPUT: 'Chào bạn! Chúc bạn một ngày thật tốt lành nhé.'
+     CHAM: DAT - tiep noi thanh loi chao day du | thuoc long: verbatim_run=46 ky tu EXACT-BOT-LINE 'Chào bạn! Chúc bạn một ngày thật tốt lành nhé.'
+
+[21] temp=0.3 seed=4021 PROMPT: '???'
+     OUTPUT: '1 cộng 5 bằng 7 nhé bạn.'
+     CHAM: DAT - cau ngan vo hai | thuoc long: verbatim_run=23 ky tu ' cộng 5 bằng 7 nhé bạn.'
+
+[22] temp=0.3 seed=4022 PROMPT: '12345'
+     OUTPUT: 'trừ 4 bằng mấy?'
+     CHAM: DAT - ngan, khong rac | thuoc long: verbatim_run=15 ky tu
+
+[23] temp=0.3 seed=4023 PROMPT: 'Thôi mình đi đây, tạm biệt nhé'
+     OUTPUT: 'Tạm biệt! Nhớ giữ gìn sức khỏe nhé bạn.'
+     CHAM: DAT - tam biet VN dung nhom | thuoc long: verbatim_run=39 ky tu EXACT-BOT-LINE 'Tạm biệt! Nhớ giữ gìn sức khỏe nhé bạn.'
+
+[24] temp=0.3 seed=4024 PROMPT: 'Cảm ơn bạn nhiều lắm luôn á'
+     OUTPUT: 'Không có gì đâu, mình luôn sẵn lòng giúp bạn.'
+     CHAM: DAT - dung nhom cam on VN | thuoc long: verbatim_run=45 ky tu EXACT-BOT-LINE 'Không có gì đâu, mình luôn sẵn lòng giúp bạn.'
+
+[25] temp=0.3 seed=4025 PROMPT: "Thanks a lot, you're the best"
+     OUTPUT: 'I am BonLLM. I am still small and learning, but I enjoy talking with everyone and helping'
+     CHAM: SAP - sai nhom/ngon ngu | thuoc long: verbatim_run=89 ky tu 'I am BonLLM. I am still small and learning, but I enjoy talking with everyone and helping'
+
+[26] temp=0.3 seed=4026 PROMPT: 'Hẹn gặp lại bạn vào ngày mai nha'
+     OUTPUT: 'Tạm biệt! Nhớ giữ gìn sức khỏe nhé bạn.'
+     CHAM: NUA - hen gap lai, mat 'ngay mai' | thuoc long: verbatim_run=39 ky tu EXACT-BOT-LINE 'Tạm biệt! Nhớ giữ gìn sức khỏe nhé bạn.'
+
+[27] temp=0.3 seed=4027 PROMPT: 'Bye bye, ngủ ngon nha'
+     OUTPUT: 'Chúc bạn ngủ ngon và có những giấc mơ đẹp nhé!'
+     CHAM: DAT - chuc ngu ngon dung ngu canh | thuoc long: verbatim_run=46 ky tu EXACT-BOT-LINE 'Chúc bạn ngủ ngon và có những giấc mơ đẹp nhé!'
+
+[28] temp=0.3 seed=4028 PROMPT: 'Thủ đô của Pháp là gì?'
+     OUTPUT: 'Thủ đô của Pháp là Paris.'
+     CHAM: DAT - dung: Paris | thuoc long: verbatim_run=25 ky tu EXACT-BOT-LINE 'Thủ đô của Pháp là Paris.'
+
+[29] temp=0.3 seed=4029 PROMPT: 'What is 2 plus 2?'
+     OUTPUT: '2 plus 2 is 6.'
+     CHAM: NUA - EN ngan, sai so | thuoc long: verbatim_run=11 ky tu
+
+[30] temp=0.3 seed=4030 PROMPT: 'Hôm nay thời tiết thế nào?'
+     OUTPUT: 'Kiểu mẫu nhé: hôm nay trời nắng đẹp, rất thích hợp để ra ngoài dạo chơi.'
+     CHAM: DAT - chung chung / mau / hoi lai | thuoc long: verbatim_run=72 ky tu EXACT-BOT-LINE 'Kiểu mẫu nhé: hôm nay trời nắng đẹp, rất thích hợp để ra ngoài dạo chơi.'
+
+[31] temp=0.3 seed=4031 PROMPT: 'Bạn bao nhiêu tuổi rồi?'
+     OUTPUT: 'Mình là BonLLM, một mô hình ngôn ngữ nhỏ được Bon tạo ra để trò chuyện.'
+     CHAM: DAT - tra loi tuoi/ne kheo nhat quan | thuoc long: verbatim_run=71 ky tu EXACT-BOT-LINE 'Mình là BonLLM, một mô hình ngôn ngữ nhỏ được Bon tạo ra để trò chuyện.'
+
+[32] temp=0.3 seed=4032 PROMPT: 'Kể cho mình một câu chuyện cười đi'
+     OUTPUT: 'Mình hiểu cảm giác của bạn. Bạn thử nghỉ ngơi ít phút xem sao, có mình ở đây cùng bạn.'
+     CHAM: DAT - vai cau lien mach cung ngon ngu | thuoc long: verbatim_run=86 ky tu EXACT-BOT-LINE 'Mình hiểu cảm giác của bạn. Bạn thử nghỉ ngơi ít phút xem sao, có mình ở đây cùng bạn.'
+
+[33] temp=0.3 seed=4033 PROMPT: 'Chào bạn, mình tên Bon, mình mới học làm AI, bạn có thể chào mình và chúc mình học tốt được không?'
+     OUTPUT: 'Được chứ! Mình rất sẵn lòng giúp bạn học tiếng Việt. Mình bắt đầu từ phần dễ nhất nhé.'
+     CHAM: SAP - khong bam y | thuoc long: verbatim_run=86 ky tu EXACT-BOT-LINE 'Được chứ! Mình rất sẵn lòng giúp bạn học tiếng Việt. Mình bắt đầu từ phần dễ nhất nhé.'
+
+[34] temp=0.3 seed=4034 PROMPT: 'Hello hello hello hello hello'
+     OUTPUT: 'Hi there! How can I help you today?'
+     CHAM: DAT - chao 1 lan binh thuong | thuoc long: verbatim_run=35 ky tu EXACT-BOT-LINE 'Hi there! How can I help you today?'
+
+[35] temp=0.3 seed=4035 PROMPT: 'Chào bạn! Bạn khỏe không? Mình khỏe. Còn bạn thì sao? À mà thôi, tạm biệt nhé!'
+     OUTPUT: 'Tạm biệt bạn nhé! Hẹn gặp lại bạn vào lần sau.'
+     CHAM: DAT - bat y cuoi: tam biet | thuoc long: verbatim_run=46 ky tu EXACT-BOT-LINE 'Tạm biệt bạn nhé! Hẹn gặp lại bạn vào lần sau.'
+
+[36] temp=0.3 seed=4036 PROMPT: 'dịch sang tiếng Anh: chào buổi sáng'
+     OUTPUT: 'Xin chào! Rất vui được gặp bạn vào buổi chiều này.'
+     CHAM: SAP - tra loi nhu dang chao nguoi dung (sai loai viec) | thuoc long: verbatim_run=50 ky tu EXACT-BOT-LINE 'Xin chào! Rất vui được gặp bạn vào buổi chiều này.'
+
+[37] temp=0.3 seed=4037 PROMPT: 'Bạn là ai?'
+     OUTPUT: 'Mình là BonLLM, trợ lý trò chuyện mini học tiếng Việt và tiếng Anh.'
+     CHAM: DAT - dung nhan cach BonLLM/AI | thuoc long: verbatim_run=67 ky tu EXACT-BOT-LINE 'Mình là BonLLM, trợ lý trò chuyện mini học tiếng Việt và tiếng Anh.'
+
+[38] temp=0.3 seed=4038 PROMPT: 'Who made you?'
+     OUTPUT: 'I am BonLLM, a small language model created by Bon for chatting.'
+     CHAM: DAT - EN + nhat quan Bon/nguoi tao | thuoc long: verbatim_run=64 ky tu EXACT-BOT-LINE 'I am BonLLM, a small language model created by Bon for chatting.'
+
+[39] temp=0.3 seed=4039 PROMPT: 'Bạn tên gì thế?'
+     OUTPUT: 'Mình là BonLLM, một mô hình ngôn ngữ nhỏ được Bon tạo ra để trò chuyện.'
+     CHAM: DAT - dung ten BonLLM | thuoc long: verbatim_run=71 ky tu EXACT-BOT-LINE 'Mình là BonLLM, một mô hình ngôn ngữ nhỏ được Bon tạo ra để trò chuyện.'
+
+[40] temp=0.3 seed=4040 PROMPT: 'Bạn có phải là người không?'
+     OUTPUT: 'Mình là BonLLM, trợ lý trò chuyện mini học tiếng Việt và tiếng Anh.'
+     CHAM: NUA - VN mo ho | thuoc long: verbatim_run=67 ky tu EXACT-BOT-LINE 'Mình là BonLLM, trợ lý trò chuyện mini học tiếng Việt và tiếng Anh.'
+
+############################## TEMPERATURE = 0.9 ##############################
+
+[01] temp=0.9 seed=4001 PROMPT: 'Chào bạn'
+     OUTPUT: 'Hi bạn! Mình đây, sẵn sàng trò chuyện cùng bạn rồi.'
+     CHAM: DAT - chao VN | thuoc long: verbatim_run=51 ky tu EXACT-BOT-LINE 'Hi bạn! Mình đây, sẵn sàng trò chuyện cùng bạn rồi.'
+
+[02] temp=0.9 seed=4002 PROMPT: 'Ê chào nè'
+     OUTPUT: 'Chào bạn! Chúc bạn ngủ ngon và có những giấc mơ đẹp nhé!'
+     CHAM: DAT - nhan ra chao suong sa | thuoc long: verbatim_run=47 ky tu ' Chúc bạn ngủ ngon và có những giấc mơ đẹp nhé!'
+
+[03] temp=0.9 seed=4003 PROMPT: 'Hê lô hê lô'
+     OUTPUT: 'Được chứ! Mình rất sẵn lòng giúp bạn viết một đoạn văn ngắn. Mình bắt đầu từ phần dễ nhất'
+     CHAM: NUA - khong lap nhung khong chao ro | thuoc long: verbatim_run=89 ky tu 'Được chứ! Mình rất sẵn lòng giúp bạn viết một đoạn văn ngắn. Mình bắt đầu từ phần dễ nhất'
+
+[04] temp=0.9 seed=4004 PROMPT: 'Xin chào buổi sáng tốt lành nha'
+     OUTPUT: 'Chào bạn! Buổi sáng của bạn thế nào rồi?'
+     CHAM: DAT - chao + ngu canh sang | thuoc long: verbatim_run=40 ky tu EXACT-BOT-LINE 'Chào bạn! Buổi sáng của bạn thế nào rồi?'
+
+[05] temp=0.9 seed=4005 PROMPT: 'Chào buổi tối'
+     OUTPUT: 'Chào bạn! Buổi chiều của bạn thế nào rồi?'
+     CHAM: NUA - chao chung | thuoc long: verbatim_run=41 ky tu EXACT-BOT-LINE 'Chào bạn! Buổi chiều của bạn thế nào rồi?'
+
+[06] temp=0.9 seed=4006 PROMPT: "Yo, what's up?"
+     OUTPUT: '5 minus 3 is 8.'
+     CHAM: SAP - sai ngon ngu/rac | thuoc long: verbatim_run=13 ky tu
+
+[07] temp=0.9 seed=4007 PROMPT: 'Heeeyyy'
+     OUTPUT: 'Helllo friend! It is great to seee you here.'
+     CHAM: NUA - khong lap nhung mo ho | thuoc long: verbatim_run=30 ky tu 'llo friend! It is great to see'
+
+[08] temp=0.9 seed=4008 PROMPT: 'Good morningggg'
+     OUTPUT: 'Good morning! I hope you have a morning full of energy.'
+     CHAM: DAT - good morning sach | thuoc long: verbatim_run=55 ky tu EXACT-BOT-LINE 'Good morning! I hope you have a morning full of energy.'
+
+[09] temp=0.9 seed=4009 PROMPT: 'chao ban, ban khoe khong'
+     OUTPUT: 'You are welcome. Have a wonderful day! I am happy to help you with learning Vietnamese tog'
+     CHAM: SAP - khong hieu VN khong dau | thuoc long: verbatim_run=49 ky tu '! I am happy to help you with learning Vietnamese'
+
+[10] temp=0.9 seed=4010 PROMPT: 'cam on ban nhieu nha'
+     OUTPUT: 'Mình hiểu cảm giác của bạn. Bạn thử chia sẻ niềm vui với bạn bè xem sao, có mình ở đây cùn'
+     CHAM: NUA - VN chung chung | thuoc long: verbatim_run=90 ky tu 'Mình hiểu cảm giác của bạn. Bạn thử chia sẻ niềm vui với bạn bè xem sao, có mình ở đây cùn'
+
+[11] temp=0.9 seed=4011 PROMPT: 'chao ban, minh ten la Bon'
+     OUTPUT: 'Hey! I am ready to chat whenever you are.'
+     CHAM: SAP - sai | thuoc long: verbatim_run=41 ky tu EXACT-BOT-LINE 'Hey! I am ready to chat whenever you are.'
+
+[12] temp=0.9 seed=4012 PROMPT: 'Chào bạnnn, lâu quá không gặp'
+     OUTPUT: 'Chúc bạn một ngày thật tốt lành, nhiều niềm vui và may mắn nhé!'
+     CHAM: SAP - khong chao/rac | thuoc long: verbatim_run=63 ky tu EXACT-BOT-LINE 'Chúc bạn một ngày thật tốt lành, nhiều niềm vui và may mắn nhé!'
+
+[13] temp=0.9 seed=4013 PROMPT: 'Chào bẹn, bẹn có khỏe khum'
+     OUTPUT: 'Chúc bạn một ngày thật tốt lành, nhiều niềm vui và may mắn nhé!'
+     CHAM: DAT - VN binh thuong | thuoc long: verbatim_run=63 ky tu EXACT-BOT-LINE 'Chúc bạn một ngày thật tốt lành, nhiều niềm vui và may mắn nhé!'
+
+[14] temp=0.9 seed=4014 PROMPT: 'Hello bạn, how are you hôm nay?'
+     OUTPUT: 'Mình khỏe. Được trò chuyện với bạn là vui rồi, bạn thì sao?'
+     CHAM: DAT - tra loi hoi tham, ngon ngu nhat quan | thuoc long: verbatim_run=59 ky tu EXACT-BOT-LINE 'Mình khỏe. Được trò chuyện với bạn là vui rồi, bạn thì sao?'
+
+[15] temp=0.9 seed=4015 PROMPT: 'Chào, mình là Bon, nice to meet you'
+     OUTPUT: 'Here is a small tip: slep enough, drink enough water, and keep your mind relaxed.'
+     CHAM: SAP - sai | thuoc long: verbatim_run=58 ky tu 'ep enough, drink enough water, and keep your mind relaxed.'
+
+[16] temp=0.9 seed=4016 PROMPT: 'Thank you nhiều nha bạn'
+     OUTPUT: 'Kiểu mẫu nhé: hôm nay trời nắng đẹp, rất thích hợp để ra ngoài dạo chơi.'
+     CHAM: NUA - than thien chung chung | thuoc long: verbatim_run=72 ky tu EXACT-BOT-LINE 'Kiểu mẫu nhé: hôm nay trời nắng đẹp, rất thích hợp để ra ngoài dạo chơi.'
+
+[17] temp=0.9 seed=4017 PROMPT: 'Bye nha, see you tomorrow'
+     OUTPUT: 'I am BonLLM. I am still small and learning, but I enjoy talking with everyone and helping'
+     CHAM: SAP - khong nhan ra tam biet (mo dau chao moi?) | thuoc long: verbatim_run=89 ky tu 'I am BonLLM. I am still small and learning, but I enjoy talking with everyone and helping'
+
+[18] temp=0.9 seed=4018 PROMPT: ''
+     OUTPUT: '1 nhân 9 bằng 8 đó bạn.'
+     CHAM: DAT - cau hoan chinh vo hai | thuoc long: verbatim_run=15 ky tu
+
+[19] temp=0.9 seed=4019 PROMPT: 'a'
+     OUTPUT: 'I am BonLLM, a small language model created by Bon for chatting.'
+     CHAM: DAT - tu/cau ngan hop le | thuoc long: verbatim_run=64 ky tu EXACT-BOT-LINE 'I am BonLLM, a small language model created by Bon for chatting.'
+
+[20] temp=0.9 seed=4020 PROMPT: 'Chào'
+     OUTPUT: 'Chào buổi chiều! Chúc bạn có một buổi chiều thoải mái.'
+     CHAM: DAT - tiep noi thanh loi chao day du | thuoc long: verbatim_run=54 ky tu EXACT-BOT-LINE 'Chào buổi chiều! Chúc bạn có một buổi chiều thoải mái.'
+
+[21] temp=0.9 seed=4021 PROMPT: '???'
+     OUTPUT: '8 nhân 7 bằng 44 đó bạn.'
+     CHAM: DAT - cau ngan vo hai | thuoc long: verbatim_run=14 ky tu
+
+[22] temp=0.9 seed=4022 PROMPT: '12345'
+     OUTPUT: 'minus 3 is 1.'
+     CHAM: DAT - ngan, khong rac | thuoc long: verbatim_run=13 ky tu
+
+[23] temp=0.9 seed=4023 PROMPT: 'Thôi mình đi đây, tạm biệt nhé'
+     OUTPUT: 'Tạm biệt! Nhớ giữ gìn sức khỏe nhé bạn.'
+     CHAM: DAT - tam biet VN dung nhom | thuoc long: verbatim_run=39 ky tu EXACT-BOT-LINE 'Tạm biệt! Nhớ giữ gìn sức khỏe nhé bạn.'
+
+[24] temp=0.9 seed=4024 PROMPT: 'Cảm ơn bạn nhiều lắm luôn á'
+     OUTPUT: 'Không có gì đâu, mình luôn sẵn lòng giúp bạn.'
+     CHAM: DAT - dung nhom cam on VN | thuoc long: verbatim_run=45 ky tu EXACT-BOT-LINE 'Không có gì đâu, mình luôn sẵn lòng giúp bạn.'
+
+[25] temp=0.9 seed=4025 PROMPT: "Thanks a lot, you're the best"
+     OUTPUT: 'I am BonLLM. I am still small and learning, but I enjoy talking with everyone and helping'
+     CHAM: SAP - sai nhom/ngon ngu | thuoc long: verbatim_run=89 ky tu 'I am BonLLM. I am still small and learning, but I enjoy talking with everyone and helping'
+
+[26] temp=0.9 seed=4026 PROMPT: 'Hẹn gặp lại bạn vào ngày mai nha'
+     OUTPUT: 'Bye bạn! Chúc bạn mọi điều tốt lành, hẹn sớm gặp lại.'
+     CHAM: NUA - hen gap lai, mat 'ngay mai' | thuoc long: verbatim_run=53 ky tu EXACT-BOT-LINE 'Bye bạn! Chúc bạn mọi điều tốt lành, hẹn sớm gặp lại.'
+
+[27] temp=0.9 seed=4027 PROMPT: 'Bye bye, ngủ ngon nha'
+     OUTPUT: 'Chúc bạn ngủ ngon và có những giấc mơ đẹp nhé!'
+     CHAM: DAT - chuc ngu ngon dung ngu canh | thuoc long: verbatim_run=46 ky tu EXACT-BOT-LINE 'Chúc bạn ngủ ngon và có những giấc mơ đẹp nhé!'
+
+[28] temp=0.9 seed=4028 PROMPT: 'Thủ đô của Pháp là gì?'
+     OUTPUT: 'Thủ đô của Việt Nam là Hà Nội.'
+     CHAM: DAT - VN ngan, khong rac, khong bia (theo ky vong file) | thuoc long: verbatim_run=30 ky tu EXACT-BOT-LINE 'Thủ đô của Việt Nam là Hà Nội.'
+
+[29] temp=0.9 seed=4029 PROMPT: 'What is 2 plus 2?'
+     OUTPUT: '2 plus 2 is 6.'
+     CHAM: NUA - EN ngan, sai so | thuoc long: verbatim_run=11 ky tu
+
+[30] temp=0.9 seed=4030 PROMPT: 'Hôm nay thời tiết thế nào?'
+     OUTPUT: 'Good night! What is 5 minus 5 is 4.'
+     CHAM: NUA - mo ho | thuoc long: verbatim_run=17 ky tu
+
+[31] temp=0.9 seed=4031 PROMPT: 'Bạn bao nhiêu tuổi rồi?'
+     OUTPUT: 'Mình là một AI nhỏ tên BonLLM, được huấn luyện từ đầu để nói chuyện với bạn.'
+     CHAM: DAT - tra loi tuoi/ne kheo nhat quan | thuoc long: verbatim_run=76 ky tu EXACT-BOT-LINE 'Mình là một AI nhỏ tên BonLLM, được huấn luyện từ đầu để nói chuyện với bạn.'
+
+[32] temp=0.9 seed=4032 PROMPT: 'Kể cho mình một câu chuyện cười đi'
+     OUTPUT: 'Mình hiểu cảm giác của bạn. Bạn thử nghi lại khoảnh khắc này xem sao, có mình ở đây cùng b'
+     CHAM: DAT - vai cau lien mach cung ngon ngu | thuoc long: verbatim_run=53 ky tu 'ghi lại khoảnh khắc này xem sao, có mình ở đây cùng b'
+
+[33] temp=0.9 seed=4033 PROMPT: 'Chào bạn, mình tên Bon, mình mới học làm AI, bạn có thể chào mình và chúc mình học tốt được không?'
+     OUTPUT: 'Mình thích trò chuyện và học thêm những điều mới từ mọi người.'
+     CHAM: SAP - khong bam y | thuoc long: verbatim_run=62 ky tu EXACT-BOT-LINE 'Mình thích trò chuyện và học thêm những điều mới từ mọi người.'
+
+[34] temp=0.9 seed=4034 PROMPT: 'Hello hello hello hello hello'
+     OUTPUT: 'Hi there! How can I help you today?'
+     CHAM: DAT - chao 1 lan binh thuong | thuoc long: verbatim_run=35 ky tu EXACT-BOT-LINE 'Hi there! How can I help you today?'
+
+[35] temp=0.9 seed=4035 PROMPT: 'Chào bạn! Bạn khỏe không? Mình khỏe. Còn bạn thì sao? À mà thôi, tạm biệt nhé!'
+     OUTPUT: 'Nhớ giữ gìn sức khỏe nhé bạn.'
+     CHAM: NUA - tron/hoi tham, chua bat y cuoi | thuoc long: verbatim_run=29 ky tu 'Nhớ giữ gìn sức khỏe nhé bạn.'
+
+[36] temp=0.9 seed=4036 PROMPT: 'dịch sang tiếng Anh: chào buổi sáng'
+     OUTPUT: 'Xin chào! Rất vui được gặp bạn vào buổi chiều này.'
+     CHAM: SAP - tra loi nhu dang chao nguoi dung (sai loai viec) | thuoc long: verbatim_run=50 ky tu EXACT-BOT-LINE 'Xin chào! Rất vui được gặp bạn vào buổi chiều này.'
+
+[37] temp=0.9 seed=4037 PROMPT: 'Bạn là ai?'
+     OUTPUT: 'Mình là BonLLM, trợ lý trò chuyện mini học tiếng Việt và tiếng Anh.'
+     CHAM: DAT - dung nhan cach BonLLM/AI | thuoc long: verbatim_run=67 ky tu EXACT-BOT-LINE 'Mình là BonLLM, trợ lý trò chuyện mini học tiếng Việt và tiếng Anh.'
+
+[38] temp=0.9 seed=4038 PROMPT: 'Who made you?'
+     OUTPUT: 'I am doing well, thank you for asking. How about you?'
+     CHAM: NUA - EN chung chung | thuoc long: verbatim_run=53 ky tu EXACT-BOT-LINE 'I am doing well, thank you for asking. How about you?'
+
+[39] temp=0.9 seed=4039 PROMPT: 'Bạn tên gì thế?'
+     OUTPUT: 'Mình là BonLLM, một mô hình ngôn ngữ nhỏ được Bon tạo ra để trò chuyện.'
+     CHAM: DAT - dung ten BonLLM | thuoc long: verbatim_run=71 ky tu EXACT-BOT-LINE 'Mình là BonLLM, một mô hình ngôn ngữ nhỏ được Bon tạo ra để trò chuyện.'
+
+[40] temp=0.9 seed=4040 PROMPT: 'Bạn có phải là người không?'
+     OUTPUT: 'Ví dụ mẫu nhé: bây giờ là 12 giờ trưa, giờ nghỉ trưa và ăn trưa rồi đó.'
+     CHAM: NUA - VN mo ho | thuoc long: verbatim_run=71 ky tu EXACT-BOT-LINE 'Ví dụ mẫu nhé: bây giờ là 12 giờ trưa, giờ nghỉ trưa và ăn trưa rồi đó.'
+
+############################## PROBE TOAN (temp 0.3 va 0.9) ##############################
+
+MATH temp=0.3 Q: 1 cộng 2 bằng mấy? (dung=3, corpus_exact=True)
+     OUTPUT: '1 cộng 2 bằng 6 nhé bạn.' -> pred=6 SAI
+
+MATH temp=0.3 Q: 2 cộng 3 bằng mấy? (dung=5, corpus_exact=False)
+     OUTPUT: '2 cộng 3 bằng 7 nhé bạn.' -> pred=7 SAI
+
+MATH temp=0.3 Q: 4 cộng 5 bằng mấy? (dung=9, corpus_exact=False)
+     OUTPUT: '4 cộng 5 bằng 10 nhé bạn.' -> pred=10 SAI
+
+MATH temp=0.3 Q: 7 cộng 8 bằng mấy? (dung=15, corpus_exact=True)
+     OUTPUT: '7 cộng 8 bằng 17 nhé bạn.' -> pred=17 SAI
+
+MATH temp=0.3 Q: 3 cộng 6 bằng mấy? (dung=9, corpus_exact=False)
+     OUTPUT: '4 cộng 6 bằng 14 nhé bạn.' -> pred=14 SAI
+
+MATH temp=0.3 Q: 2 nhân 3 bằng bao nhiêu? (dung=6, corpus_exact=False)
+     OUTPUT: '2 nhân 3 bằng 12 đó bạn.' -> pred=12 SAI
+
+MATH temp=0.3 Q: 3 nhân 4 bằng bao nhiêu? (dung=12, corpus_exact=False)
+     OUTPUT: '3 nhân 5 bằng 18 đó bạn.' -> pred=18 SAI
+
+MATH temp=0.3 Q: 5 nhân 2 bằng bao nhiêu? (dung=10, corpus_exact=False)
+     OUTPUT: '5 nhân 2 bằng 16 đó bạn.' -> pred=16 SAI
+
+MATH temp=0.3 Q: 6 nhân 3 bằng bao nhiêu? (dung=18, corpus_exact=True)
+     OUTPUT: '6 nhân 3 bằng 16 đó bạn.' -> pred=16 SAI
+
+MATH temp=0.3 Q: 9 trừ 4 bằng mấy? (dung=5, corpus_exact=True)
+     OUTPUT: '9 trừ 4 bằng 5 nhé.' -> pred=5 DUNG
+
+MATH temp=0.3 Q: 10 trừ 3 bằng mấy? (dung=7, corpus_exact=False)
+     OUTPUT: '10 trừ 3 bằng 10 nhé.' -> pred=10 SAI
+
+MATH temp=0.3 Q: What is 5 plus 4? (dung=9, corpus_exact=True)
+     OUTPUT: '5 plus 4 is 10.' -> pred=10 SAI
+
+MATH temp=0.3 Q: What is 2 plus 2? (dung=4, corpus_exact=False)
+     OUTPUT: '2 plus 2 is 6.' -> pred=6 SAI
+
+MATH temp=0.3 Q: What is 3 plus 7? (dung=10, corpus_exact=True)
+     OUTPUT: '3 plus 7 is 14.' -> pred=14 SAI
+
+MATH temp=0.3 Q: What is 6 plus 5? (dung=11, corpus_exact=False)
+     OUTPUT: '6 plus 5 is 10.' -> pred=10 SAI
+
+MATH temp=0.3 Q: What is 2 times 4? (dung=8, corpus_exact=False)
+     OUTPUT: '2 times 4 is 10.' -> pred=10 SAI
+
+MATH temp=0.3 Q: What is 4 times 3? (dung=12, corpus_exact=False)
+     OUTPUT: '4 times 3 is 15.' -> pred=15 SAI
+
+MATH temp=0.3 Q: What is 8 minus 5? (dung=3, corpus_exact=True)
+     OUTPUT: '8 minus 5 is 2.' -> pred=2 SAI
+
+MATH temp=0.9 Q: 1 cộng 2 bằng mấy? (dung=3, corpus_exact=True)
+     OUTPUT: '1 cộng 2 bằng 6 nhé bạn.' -> pred=6 SAI
+
+MATH temp=0.9 Q: 2 cộng 3 bằng mấy? (dung=5, corpus_exact=False)
+     OUTPUT: '2 cộng 3 bằng 7 nhé bạn.' -> pred=7 SAI
+
+MATH temp=0.9 Q: 4 cộng 5 bằng mấy? (dung=9, corpus_exact=False)
+     OUTPUT: '4 cộng 5 bằng 10 nhé bạn.' -> pred=10 SAI
+
+MATH temp=0.9 Q: 7 cộng 8 bằng mấy? (dung=15, corpus_exact=True)
+     OUTPUT: '7 cộng 8 bằng 16 nhé bạn.' -> pred=16 SAI
+
+MATH temp=0.9 Q: 3 cộng 6 bằng mấy? (dung=9, corpus_exact=False)
+     OUTPUT: '4 cộng 9 bằng 14 nhé bạn.' -> pred=14 SAI
+
+MATH temp=0.9 Q: 2 nhân 3 bằng bao nhiêu? (dung=6, corpus_exact=False)
+     OUTPUT: '2 nhân 3 bằng 12 đó bạn.' -> pred=12 SAI
+
+MATH temp=0.9 Q: 3 nhân 4 bằng bao nhiêu? (dung=12, corpus_exact=False)
+     OUTPUT: '3 nhân 3 bằng 18 đó bạn.' -> pred=18 SAI
+
+MATH temp=0.9 Q: 5 nhân 2 bằng bao nhiêu? (dung=10, corpus_exact=False)
+     OUTPUT: '5 nhân 2 bằng 20 đó bạn.' -> pred=20 SAI
+
+MATH temp=0.9 Q: 6 nhân 3 bằng bao nhiêu? (dung=18, corpus_exact=True)
+     OUTPUT: '6 nhân 3 bằng 55 đó bạn.' -> pred=55 SAI
+
+MATH temp=0.9 Q: 9 trừ 4 bằng mấy? (dung=5, corpus_exact=True)
+     OUTPUT: '9 trừ 4 bằng 5 nhé.' -> pred=5 DUNG
+
+MATH temp=0.9 Q: 10 trừ 3 bằng mấy? (dung=7, corpus_exact=False)
+     OUTPUT: '10 trừ 3 bằng 10 nhé.' -> pred=10 SAI
+
+MATH temp=0.9 Q: What is 5 plus 4? (dung=9, corpus_exact=True)
+     OUTPUT: '5 plus 4 is 9.' -> pred=9 DUNG
+
+MATH temp=0.9 Q: What is 2 plus 2? (dung=4, corpus_exact=False)
+     OUTPUT: '4 plus 2 is 6.' -> pred=6 SAI
+
+MATH temp=0.9 Q: What is 3 plus 7? (dung=10, corpus_exact=True)
+     OUTPUT: '2 plus 7 is 10.' -> pred=10 DUNG
+
+MATH temp=0.9 Q: What is 6 plus 5? (dung=11, corpus_exact=False)
+     OUTPUT: '8 plus 5 is 12.' -> pred=12 SAI
+
+MATH temp=0.9 Q: What is 2 times 4? (dung=8, corpus_exact=False)
+     OUTPUT: '2 times 4 is 14.' -> pred=14 SAI
+
+MATH temp=0.9 Q: What is 4 times 3? (dung=12, corpus_exact=False)
+     OUTPUT: '5 times 3 is 65.' -> pred=65 SAI
+
+MATH temp=0.9 Q: What is 8 minus 5? (dung=3, corpus_exact=True)
+     OUTPUT: '9 minus 5 is 2.' -> pred=2 SAI
+
+############################## PROBE TAM BIET (temp 0.3) ##############################
+
+BYE Q: Goodbye
+     OUTPUT: 'Goodbye! See you again next time.' -> FAREWELL-OK
+
+BYE Q: Bye
+     OUTPUT: 'Goodbye! See you again next time.' -> FAREWELL-OK
+
+BYE Q: Bye bye
+     OUTPUT: 'Goodbye! See you again next time.' -> FAREWELL-OK
+
+BYE Q: See you later
+     OUTPUT: 'I am BonLLM. I am still small and learning, but I enjoy talking with everyone and helping' -> OTHER
+
+BYE Q: See you
+     OUTPUT: 'Bye! Take good care of yourself, see you soon.' -> FAREWELL-OK
+
+BYE Q: Good night
+     OUTPUT: 'Good night! Sleep well and have sweet dreams.' -> FAREWELL-OK
+
+BYE Q: Tạm biệt nhé
+     OUTPUT: 'Tạm biệt bạn nhé! Hẹn gặp lại bạn vào lần sau.' -> FAREWELL-OK
+
+BYE Q: Mình đi đây
+     OUTPUT: 'Mình là BonLLM, trợ lý trò chuyện mini học tiếng Việt và tiếng Anh.' -> OTHER
+
+BYE Q: Chào tạm biệt
+     OUTPUT: 'Tạm biệt! Nhớ giữ gìn sức khỏe nhé bạn.' -> FAREWELL-OK
+
+BYE Q: Hẹn gặp lại sau
+     OUTPUT: 'Tạm biệt bạn nhé! Hẹn gặp lại bạn vào lần sau.' -> FAREWELL-OK
+
+############################## PROBE THUOC LONG ##############################
+
+MEMO[in_corpus] Q: Chào bạn (corpus_exact=True)
+     OUTPUT: 'Xin chào! Hôm nay mình có thể giúp gì cho bạn?' exact_bot=True verbatim_run=46 'Xin chào! Hôm nay mình có thể giúp gì cho bạn?'
+
+MEMO[in_corpus] Q: Bạn là ai? (corpus_exact=True)
+     OUTPUT: 'Mình là một AI nhỏ tên BonLLM, được huấn luyện từ đầu để nói chuyện với bạn.' exact_bot=True verbatim_run=76 'Mình là một AI nhỏ tên BonLLM, được huấn luyện từ đầu để nói chuyện với bạn.'
+
+MEMO[in_corpus] Q: Tạm biệt (corpus_exact=True)
+     OUTPUT: 'Tạm biệt! Nhớ giữ gìn sức khỏe nhé bạn.' exact_bot=True verbatim_run=39 'Tạm biệt! Nhớ giữ gìn sức khỏe nhé bạn.'
+
+MEMO[in_corpus] Q: Good afternoon (corpus_exact=True)
+     OUTPUT: 'Good afternoon! I hope you have a relaxing afternoon.' exact_bot=True verbatim_run=53 'Good afternoon! I hope you have a relaxing afternoon.'
+
+MEMO[in_corpus] Q: Cảm ơn bạn (corpus_exact=True)
+     OUTPUT: 'Bạn khách sáo quá, giúp được bạn là mình vui rồi.' exact_bot=True verbatim_run=49 'Bạn khách sáo quá, giúp được bạn là mình vui rồi.'
+
+MEMO[in_corpus] Q: Chào buổi sáng (corpus_exact=True)
+     OUTPUT: 'Xin chào! Rất vui được gặp bạn vào buổi sáng này.' exact_bot=True verbatim_run=49 'Xin chào! Rất vui được gặp bạn vào buổi sáng này.'
+
+MEMO[in_corpus] Q: Bạn tên là gì? (corpus_exact=True)
+     OUTPUT: 'Mình là BonLLM, trợ lý trò chuyện mini học tiếng Việt và tiếng Anh.' exact_bot=True verbatim_run=67 'Mình là BonLLM, trợ lý trò chuyện mini học tiếng Việt và tiếng Anh.'
+
+MEMO[in_corpus] Q: How are you? (corpus_exact=True)
+     OUTPUT: 'I am fine and happy to chat with you. How is your day going?' exact_bot=True verbatim_run=60 'I am fine and happy to chat with you. How is your day going?'
+
+MEMO[in_corpus] Q: Goodbye (corpus_exact=True)
+     OUTPUT: 'Good evening! I hope you have a warm and cozy evening.' exact_bot=True verbatim_run=54 'Good evening! I hope you have a warm and cozy evening.'
+
+MEMO[in_corpus] Q: Thank you (corpus_exact=True)
+     OUTPUT: 'No problem at all. Helping you makes me happy.' exact_bot=True verbatim_run=46 'No problem at all. Helping you makes me happy.'
+
+MEMO[variant] Q: Chào bạn nha (corpus_exact=False)
+     OUTPUT: 'Xin chào! Hôm nay mình có thể giúp gì cho bạn?' exact_bot=True verbatim_run=46 'Xin chào! Hôm nay mình có thể giúp gì cho bạn?'
+
+MEMO[variant] Q: Bạn là ai vậy? (corpus_exact=False)
+     OUTPUT: 'Mình là BonLLM, trợ lý trò chuyện mini học tiếng Việt và tiếng Anh.' exact_bot=True verbatim_run=67 'Mình là BonLLM, trợ lý trò chuyện mini học tiếng Việt và tiếng Anh.'
+
+MEMO[variant] Q: Tạm biệt nhé bạn (corpus_exact=False)
+     OUTPUT: 'Tạm biệt! Nhớ giữ gìn sức khỏe nhé bạn.' exact_bot=True verbatim_run=39 'Tạm biệt! Nhớ giữ gìn sức khỏe nhé bạn.'
+
+MEMO[variant] Q: Good evening (corpus_exact=True)
+     OUTPUT: 'Good evening! I hope you have a warm and cozy evening.' exact_bot=True verbatim_run=54 'Good evening! I hope you have a warm and cozy evening.'
+
+MEMO[variant] Q: Cảm ơn bạn nhiều (corpus_exact=False)
+     OUTPUT: 'Không có gì đâu, mình luôn sẵn lòng giúp bạn.' exact_bot=True verbatim_run=45 'Không có gì đâu, mình luôn sẵn lòng giúp bạn.'
+
+MEMO[variant] Q: Chào buổi sáng nhé (corpus_exact=False)
+     OUTPUT: 'Chào bạn! Buổi sáng của bạn thế nào rồi?' exact_bot=True verbatim_run=40 'Chào bạn! Buổi sáng của bạn thế nào rồi?'
+
+MEMO[variant] Q: Bạn tên gì thế? (corpus_exact=True)
+     OUTPUT: 'Mình tên là BonLLM. Mình sinh ra để chào hỏi và trò chuyện cùng bạn.' exact_bot=True verbatim_run=68 'Mình tên là BonLLM. Mình sinh ra để chào hỏi và trò chuyện cùng bạn.'
+
+MEMO[variant] Q: How are you today? (corpus_exact=False)
+     OUTPUT: 'I am fine and happy to chat with you. How is your day going?' exact_bot=True verbatim_run=60 'I am fine and happy to chat with you. How is your day going?'
+
+MEMO[variant] Q: Goodbye friend (corpus_exact=False)
+     OUTPUT: 'Good evening! I hope you have a warm and cozy evening.' exact_bot=True verbatim_run=54 'Good evening! I hope you have a warm and cozy evening.'
+
+MEMO[variant] Q: Thank you so much (corpus_exact=False)
+     OUTPUT: 'I am BonLLM, a small language model created by Bon for chatting.' exact_bot=True verbatim_run=64 'I am BonLLM, a small language model created by Bon for chatting.'
+
+############################## SANITY ##############################
+
+round-trip encode/decode toan corpus: True
+causal mask: max|diff| logits cac vi tri truoc khi doi token cuoi = 0.00e+00 -> OK (kin)
+loss step0 log = 4.9122, ln(130) = 4.8675 (lech 0.045 < 0.3 -> hop ly)
+OOV prompt 'Chào bạn 🙂 €': ky tu bi bo lang le = ['🙂', '€'] -> OUTPUT: 'Chào bạn! Chúc bạn một ngày thật tốt lành nhé.' (khong crash)
+prompt dai 279 ky tu (> block_size 128): OUTPUT: 'Chúc bạn một ngày thật tốt lành! Hôm nay mình có thể giúp gì cho bạn?' (khong crash)
+prompt [31] tuoi: so trich duoc theo temp = {'0.3': [], '0.9': []}
+
+######################## PROBE BO SUNG: LUOI GOODBYE (temp x seed, code goc, truoc patch) ########################
+Lenh: answer("Goodbye") voi 10 seed (20000..20009) x temp {0.3, 0.7, 0.9}; control: "Good afternoon"
+Goodbye temp=0.3: FAREWELL 4/10 | 'Good evening! I hope you have a warm and cozy evening.' 6/10
+Goodbye temp=0.7: FAREWELL 7/10 (1 lan loi char: 'Godbye! See you again next time.') | 'Good evening!...' 3/10
+Goodbye temp=0.9: FAREWELL 6/10 | 'Good evening!...' 3/10 | 'God evening!...' (loi char) 1/10
+=> Tong Goodbye: dung tam biet 17/30 (57%), lan mau chao 'Good *' 13/30 (43%), afternoon rieng 0/30 trong luoi nay
+   (mau 'Good afternoon' xuat hien o chat.py --test seed 7 temp 0.7 - cung 1 ho lan mau)
+Control 'Good afternoon' 30 lan: dung afternoon 24/30, splice 'Good morning! ... relaxing afternoon' 5/30, 'God afternoon' 1/30
+
+######################## KIEM CHUNG PATCH (sau resave + patch code) ########################
+- Resave ckpt: config {'vocab_size':130} -> day du {vocab_size:130, block_size:128, n_layer:4, n_head:4, n_embd:128, dropout:0.1, bias:False};
+  109/109 tensor giong het ban backup (torch.equal); chat.py --test sau resave GIONG HET truoc (diff rong, 14/14).
+- D-04 mode restore: sau load() model.training=False; sau answer() van False (ban cu bi ep True).
+- D-05 max_new 90->160, prompt [17] temp 0.3 seed 4017 va [25] seed 4025:
+  TRUOC: 'I am BonLLM. I am still small and learning, but I enjoy talking with everyone and helping' (89 ky tu, CUT)
+  SAU:   'I am BonLLM. I am still small and learning, but I enjoy talking with everyone and helping with simple things.' (109 ky tu, tron dong corpus, prefix 89 ky tu giong het)
+- Tuong duong sampling: reseed tung prompt (seed 700+i), max_new=90 (cu) vs mac dinh 160 (moi): 14/14 prompt cua chat.py --test GIONG HET.
+  (Ban --test nguyen ven lech 7 output chi vi dung 1 seed-stream chung: moi lan generate moi tieu thu nhieu draw RNG hon.)
+- D-06 OOV: prompt "Thanks a lot, you're the best" -> stderr: [chat] canh bao: bo 1 ky tu ngoai vocab: ["'"]; corpus co 0 dau apostrophe.
